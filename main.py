@@ -1,6 +1,10 @@
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
-
+import sys
+import os
+if not os.path.exists('i18n/AdGuard Applications.xml'):
+    print("file does not exist")
+    sys.exit(1)
 # XMLファイルを解析してroot要素を取得する
 tree = ET.parse('i18n/AdGuard Applications.xml')
 root = tree.getroot()
