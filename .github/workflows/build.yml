@@ -1,0 +1,30 @@
+name: Build
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '23 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: crowdin action
+      uses: crowdin/github-action@v1
+      with:
+        upload_sources: false
+        upload_translations: false
+        download_translations: true
+        localization_branch_name: main
+        create_pull_request: false
+        download_language: 'en'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+    - name: check
+      run: |
+        ls
+        
