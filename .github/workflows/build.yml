@@ -3,7 +3,7 @@ name: Build
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '23 * * * *'
+    - cron:  '0 23 * * *'
 
 jobs:
   build:
@@ -11,20 +11,16 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: crowdin action
-      uses: crowdin/github-action@v1
-      with:
-        upload_sources: false
-        upload_translations: false
-        download_translations: true
-        localization_branch_name: main
-        create_pull_request: false
-        download_language: 'en'
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
-        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-    - name: check
+    - name: download
       run: |
-        ls
-        
+        sudo apt update
+        sudo apt -y install jq
+        crowdin_url="https://api.crowdin.com/api/v2/projects/${{secrets.CROWDIN_PROJECT_ID}}/translations/exports"
+        echo "$crowdin_url"
+        download_url=`curl -X POST "$crowdin_url" -d '{"targetLanguageId":"en","format": "xliff"}' -H "Authorization: Bearer ${{secrets.CROWDIN_PERSONAL_TOKEN}}" -H "Content-Type: application/json" | jq -r .data.url`
+        curl -L "$download_url" -o "sources/AdGuard Applications.xliff"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Update Translate"
+        git push
