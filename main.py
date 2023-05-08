@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 # XMLファイルを解析してroot要素を取得する
-tree = ET.parse('i18n/sources.xml')
+tree = ET.parse('i18n/AdGuard Applications.xml')
 root = tree.getroot()
 
 # plurals要素を取得する
