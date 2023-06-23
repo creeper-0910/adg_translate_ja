@@ -479,7 +479,9 @@
   <string name="setup_dns_notice">In order to use &lt;1&gt;DNS-over-HTTPS&lt;/1&gt; or &lt;1&gt;DNS-over-TLS&lt;/1&gt;, you need to &lt;0&gt;configure Encryption&lt;/0&gt; in AdGuard Home settings.</string>
   <string name="rewrite_added">DNS rewrite for \"{{key}}\" successfully added</string>
   <string name="rewrite_deleted">DNS rewrite for \"{{key}}\" successfully deleted</string>
+  <string name="rewrite_updated">DNS rewrite successfully updated</string>
   <string name="rewrite_add">Add DNS rewrite</string>
+  <string name="rewrite_edit">Edit DNS rewrite</string>
   <string name="rewrite_not_found">No DNS rewrites found</string>
   <string name="rewrite_confirm_delete">Are you sure you want to delete DNS rewrite for \"{{key}}\"?</string>
   <string name="rewrite_desc">Allows to easily configure custom DNS response for a specific domain name.</string>
