@@ -6,8 +6,8 @@
     <string name="abc_action_mode_done">完了</string>
     <string name="abc_activity_chooser_view_see_all">すべて表示</string>
     <string name="abc_activitychooserview_choose_application">アプリの選択</string>
-    <string name="abc_capital_off">OFF</string>
-    <string name="abc_capital_on">ON</string>
+    <string name="abc_capital_off">オフ</string>
+    <string name="abc_capital_on">オン</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
     <string name="abc_menu_delete_shortcut_label">Delete</string>
@@ -29,8 +29,8 @@
     <string name="abc_toolbar_collapse_description">折りたたむ</string>
     <string name="about_license_about_license_title">ライセンス</string>
     <string name="about_license_activate">ライセンスを認証する</string>
-    <string name="about_license_buy_full_version">フル版を購入する</string>
-    <string name="about_license_devices">ご利用端末数: %1$d/%2$d</string>
+    <string name="about_license_buy_full_version">製品版を購入する</string>
+    <string name="about_license_devices">ご利用中の端末数: %1$d/%2$d</string>
     <string name="about_license_extend_or_upgrade">延長・アップグレード</string>
     <string name="about_license_get_a_free_trial">無料で試してみる</string>
     <string name="about_license_key">ライセンスキー: %1$s</string>
@@ -38,7 +38,7 @@
     <string name="about_license_lifetime_subscription">永久ライセンス</string>
     <string name="about_license_lifetime_upgrade">もう一つのライセンスを購入する</string>
     <string name="about_license_log_out">ライセンスをリセット</string>
-    <string name="about_license_manage">お持ちのライセンス管理</string>
+    <string name="about_license_manage">所有済ライセンスの管理</string>
     <string name="about_license_monthly_subscription">ご利用中のプラン: 月額</string>
     <string name="about_license_refresh_license_status">ライセンス状態を更新</string>
     <string name="about_license_renew_or_upgrade">更新・アップグレード</string>
@@ -46,7 +46,7 @@
     <string name="about_license_status_family">ファミリー版</string>
     <string name="about_license_status_free_license">無料版</string>
     <string name="about_license_status_free_license_description">トラッキング防止、ブラウジング・セキュリティ、カスタムフィルター、ブラウザ以外のアプリでの広告ブロックは無料版ではご利用いただけません。</string>
-    <string name="about_license_status_free_trial">無料お試し版</string>
+    <string name="about_license_status_free_trial">無料試用版</string>
     <string name="about_license_status_paid">有料版</string>
     <string name="about_license_status_personal">パーソナル版</string>
     <string name="about_license_subscription_expired">サブスクリプションが期限切れしました</string>
@@ -165,15 +165,15 @@
     <string name="adguard_vpn_integration_dialog_disable_negative_button_title">無効にする</string>
     <string name="adguard_vpn_integration_dialog_integration_enabled_button">OK</string>
     <string name="adguard_vpn_integration_dialog_integration_enabled_summary">AdGuard VPN とAdGuard広告ブロッカーアプリは互換性があり、連携してあなたを守ります。</string>
-    <string name="adguard_vpn_integration_dialog_integration_enabled_title">保護がダブルになりました。</string>
+    <string name="adguard_vpn_integration_dialog_integration_enabled_title">保護がより強固になりました。</string>
     <string name="adguard_vpn_integration_dialog_positive_button_title">AdGuard VPN をインストールする</string>
-    <string name="adguard_vpn_integration_dialog_primary_button_title">アップデート</string>
+    <string name="adguard_vpn_integration_dialog_primary_button_title">更新</string>
     <string name="adguard_vpn_integration_dialog_summary_install_adguard_vpn_app">AdGuard は、広告やトラッカーから守ります。それに加えて AdGuard VPN をインストールしますと、匿名性確保とトラフィック暗号化でオンラインセキュリティをさらに向上できます。</string>
-    <string name="adguard_vpn_integration_dialog_summary_update_adguard_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard をアップデートしてください。</string>
-    <string name="adguard_vpn_integration_dialog_summary_update_adguard_vpn_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard VPN アプリをアップデートしてください。</string>
+    <string name="adguard_vpn_integration_dialog_summary_update_adguard_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard を更新してください。</string>
+    <string name="adguard_vpn_integration_dialog_summary_update_adguard_vpn_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard VPN アプリを更新してください。</string>
     <string name="adguard_vpn_integration_dialog_title_install_adguard_vpn_app">保護をダブルに</string>
-    <string name="adguard_vpn_integration_dialog_title_update_adguard_app">AdGuard VPNと併用するにはAdGuardをアップデートしてください。</string>
-    <string name="adguard_vpn_integration_dialog_title_update_adguard_vpn_app">併用するには AdGuard VPN をアップデートしてください。</string>
+    <string name="adguard_vpn_integration_dialog_title_update_adguard_app">AdGuard VPNと併用するにはAdGuardを更新してください。</string>
+    <string name="adguard_vpn_integration_dialog_title_update_adguard_vpn_app">併用するには AdGuard VPN を更新してください。</string>
     <string name="allow_list_add_an_exclusion">ウェブサイトを追加</string>
     <string name="allow_list_add_an_exclusion_message">AdGuardは、このWebサイトで広告・トラッカー（個人情報追跡）・迷惑要素をブロックしなくなります。</string>
     <string name="allow_list_dialog_description_edit">AdGuardは、このWebサイトで広告、トラッカー（個人情報追跡）、迷惑要素をブロックしないようになります。</string>
@@ -219,8 +219,8 @@
     <string name="annoyances_blocking_summary">Cookie通知、SNSウィジェットやページ内ポップアップなどの迷惑なWeb要素をブロックします。</string>
     <string name="annoyances_blocking_switch">迷惑要素ブロック</string>
     <string name="annoyances_blocking_title">迷惑要素ブロック</string>
-    <string name="app_language_system">システム言語 (%s)</string>
-    <string name="app_language_title">本アプリの言語</string>
+    <string name="app_language_system">システムの設定に従う (%s)</string>
+    <string name="app_language_title">アプリの言語</string>
     <string name="application_statistics_menu_app_settings">アプリの管理</string>
     <string name="application_statistics_menu_technical_information">技術的な情報</string>
     <string name="application_statistics_technical_information_dialog_category">Category: %d</string>
@@ -266,7 +266,7 @@
     <string name="apply_settings_tracking_protection_ultimate_privacy_level_title">厳格</string>
     <string name="apps_root">システムユーティリティ</string>
     <string name="apps_system">システムアプリ</string>
-    <string name="assistant_allowlist_summary_added">AdGuardはこのウェブサイトをフィルタリングをしないようになりました。</string>
+    <string name="assistant_allowlist_summary_added">AdGuardはこのウェブサイトをフィルタリングしなくなりました。</string>
     <string name="assistant_allowlist_summary_removed">AdGuardはこのウェブサイトをフィルタリングするようになりました。</string>
     <string name="assistant_allowlist_title_added">ウェブサイトがホワイトリストに追加されました。</string>
     <string name="assistant_allowlist_title_removed">サイトがホワイトリストから削除されました。</string>
@@ -274,8 +274,8 @@
     <string name="assistant_app_firewall">ファイアウォール設定</string>
     <string name="assistant_app_recent_activity">最新アクティビティ</string>
     <string name="assistant_app_statistics">このアプリの統計</string>
-    <string name="assistant_app_summary_firewall">接続は%s前に「ファイアウォール」でブロックされました。</string>
-    <string name="assistant_app_summary_used">%s前に使用されました</string>
+    <string name="assistant_app_summary_firewall">接続は%s前にファイアウォールでブロックされました</string>
+    <string name="assistant_app_summary_used">%s前に使用しました</string>
     <string name="assistant_back">戻る</string>
     <string name="assistant_format_hours">%d時間</string>
     <string name="assistant_format_minutes">%d分</string>
@@ -290,8 +290,8 @@
     <string name="assistant_website_recent_activity">最新アクティビティ</string>
     <string name="assistant_website_remove_from_allowlist">ホワイトリストから削除する</string>
     <string name="assistant_website_statistics">ウェブサイト統計</string>
-    <string name="assistant_website_summary_blocked">%s前にブロックされました</string>
-    <string name="assistant_website_summary_visited">%s前に訪問されました</string>
+    <string name="assistant_website_summary_blocked">%s前にブロックしました</string>
+    <string name="assistant_website_summary_visited">%s前に訪問しました</string>
     <string name="automatic_dns_button_select">自動DNSを使用する</string>
     <string name="automatic_dns_button_selected">有効</string>
     <string name="automatic_dns_mode_used_note">現在使用中</string>
@@ -335,9 +335,9 @@
     <string name="automation_toast_message_outbound_proxy_removed">プロキシサーバーが削除されました。</string>
     <string name="automation_toast_message_protection_starting">保護を有効化中…</string>
     <string name="automation_toast_message_protection_stopping">保護を無効化中…</string>
-    <string name="automation_toast_message_update_check_was_performed">アップデートは利用可能です。</string>
+    <string name="automation_toast_message_update_check_was_performed">更新が利用可能です。</string>
     <string name="automation_toast_message_wrong_password">オートメーションパスワードを確認し、再試行してください</string>
-    <string name="available_in_the_full_version">フル版でご利用可能</string>
+    <string name="available_in_the_full_version">製品版で利用可能</string>
     <string name="battery_usage_daily_usage">24時間のバッテリー使用量</string>
     <string name="battery_usage_label">"%1$.2f%% (%2$.2f mAh)
 %3$s"</string>
@@ -348,10 +348,10 @@
     <string name="battery_usage_recent_usage_background_cpu_title">CPUバックグラウンド使用量</string>
     <string name="battery_usage_recent_usage_foreground_cpu_summary">トラフィックフィルタリング、ユーザーインターフェースレンダリング</string>
     <string name="battery_usage_recent_usage_foreground_cpu_title">CPUフォアグラウンド使用量</string>
-    <string name="battery_usage_recent_usage_mobile_data_summary">AdGuardのアップデートやフィルター更新、ウェブサイトの安全性チェック</string>
+    <string name="battery_usage_recent_usage_mobile_data_summary">AdGuardの更新やフィルターの更新、ウェブサイトの安全性チェック</string>
     <string name="battery_usage_recent_usage_mobile_data_title">データ通信量</string>
     <string name="battery_usage_recent_usage_title">アクティビティの内訳</string>
-    <string name="battery_usage_recent_usage_wifi_data_summary">AdGuardのアップデートやフィルタ更新、ウェブサイトの安全性チェック</string>
+    <string name="battery_usage_recent_usage_wifi_data_summary">AdGuardの更新やフィルターの更新、ウェブサイトの安全性チェック</string>
     <string name="battery_usage_recent_usage_wifi_data_title">Wi-Fiデータ使用量</string>
     <string name="battery_usage_summary">AdGuard はアプリの通信をフィルタリングしますので、デバイスの設定ではそれらのアプリのバッテリー使用量の分もAdGuardに起因しているかのように誤って表示されることがあります。以下は、AdGuardのみの実際のバッテリー使用量情報でございます。</string>
     <string name="battery_usage_title">バッテリーの使用状況</string>
@@ -373,13 +373,13 @@
     <string name="configure_updates_auto_update_period_three_hours">3時間ごと</string>
     <string name="configure_updates_auto_update_period_twelve_hours">12時間ごと</string>
     <string name="configure_updates_auto_update_period_two_days">2日に1回</string>
-    <string name="configure_updates_title">アプリとフィルタのアップデート</string>
+    <string name="configure_updates_title">アプリとフィルタの更新</string>
     <string name="configure_updates_update_channel_beta">ベータ版</string>
-    <string name="configure_updates_update_channel_dialog_beta_subtitle">テスト用ベータ版をテストし、新機能にいち早くアクセスしたい場合。頻繁に更新され、バグ・不具合が含まれる場合があります。</string>
-    <string name="configure_updates_update_channel_dialog_nightly_subtitle">最新の機能を一番早く試すことができます。毎日アップデートされ、ベータ版よりも不安定で、多くのバグ・不具合が含まれる場合があります。</string>
-    <string name="configure_updates_update_channel_dialog_release_subtitle">一般利用にはこちらがおすすめです。アプリは随時アップデートされます。</string>
-    <string name="configure_updates_update_channel_dialog_subtitle">アプリのアップデート方法を選択できます。</string>
-    <string name="configure_updates_update_channel_dialog_title">アプリのアップデートチャンネル</string>
+    <string name="configure_updates_update_channel_dialog_beta_subtitle">ベータ版をテストし、新機能にいち早くアクセスしたい場合にお勧めです。頻繁に更新され、バグ・不具合が含まれる場合があります。</string>
+    <string name="configure_updates_update_channel_dialog_nightly_subtitle">毎日更新され、最新の機能を一番早く試すことができます。ベータ版よりも不安定で、多くのバグ・不具合が含まれる場合があります。</string>
+    <string name="configure_updates_update_channel_dialog_release_subtitle">通常利用に適しています。安定しており、アプリは随時更新されます。</string>
+    <string name="configure_updates_update_channel_dialog_subtitle">アプリの更新方法を選択できます。</string>
+    <string name="configure_updates_update_channel_dialog_title">アプリの更新チャンネル</string>
     <string name="configure_updates_update_channel_nightly">Nightly</string>
     <string name="configure_updates_update_channel_release">安定版</string>
     <string name="configure_updates_update_channel_summary">%s</string>
@@ -419,7 +419,7 @@
     <string name="domain_statistics_subdomains_placeholder">サブドメインがありません</string>
     <string name="error_icon_content_description">エラー</string>
     <string name="error_open_system_settings">設定を開けませんでした</string>
-    <string name="error_too_long">%d文字以内にしてください</string>
+    <string name="error_too_long">最大%d文字まで使用できます</string>
     <string name="expand_button_title">詳細設定</string>
     <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
     <string name="extension_details_dialog_delete_button">削除</string>
@@ -671,7 +671,7 @@
     <string name="foreground_service_button_assistant">アシスタント</string>
     <string name="foreground_service_button_pause_protection">保護を無効にする</string>
     <string name="foreground_service_protection_state_title_paused">保護はオフになっています。</string>
-    <string name="foreground_service_protection_state_title_restarting">保護を再起動中…</string>
+    <string name="foreground_service_protection_state_title_restarting">保護を再有効化中…</string>
     <string name="foreground_service_protection_state_title_started">広告とトラッカーをブロックしています</string>
     <string name="foreground_service_protection_state_title_started_with_proxy">プロキシサーバー経由で広告やトラッカーをブロックしています。</string>
     <string name="foreground_service_protection_state_title_starting">保護を有効化中…</string>
@@ -700,11 +700,11 @@
     <string name="general_notifications_redirect_error">デバイスの通知設定を開くのに失敗しました。手動で開いてみてください</string>
     <string name="general_reset_to_defaults">デフォルトにリセットする</string>
     <string name="general_reset_to_defaults_reset">リセット</string>
-    <string name="general_reset_to_defaults_summary">AdGuard はシステムのカラーテーマと言語に切り替わります。アップデートと自動起動の設定はデフォルトに設定されます。</string>
+    <string name="general_reset_to_defaults_summary">AdGuard はシステムのカラーテーマと言語に切り替わります。更新と自動起動の設定はデフォルトに設定されます。</string>
     <string name="general_reset_to_defaults_title">デフォルトにリセットしますか？</string>
     <string name="general_technical_and_interaction_data_summary">ユーザーの本アプリとの関わり方に関する情報を与え、問題修正や改善に活用されます。</string>
     <string name="general_technical_and_interaction_data_title">技術的情報とインタラクション情報を送信する</string>
-    <string name="general_updates">アプリとフィルタのアップデート</string>
+    <string name="general_updates">アプリとフィルタの更新</string>
     <string name="home_dialog_https_activated_button">完了</string>
     <string name="home_dialog_https_activated_message">快適で安全なインターネットをお楽しみください。</string>
     <string name="home_dialog_https_activated_title">HTTPSフィルタリングが有効です。</string>
@@ -871,7 +871,7 @@
     <string name="license_dialog_expired_title">お使いのライセンスの有効期限が切れています</string>
     <string name="license_dialog_invalid_summary">ライセンスキーを確認し、再度お試しください</string>
     <string name="license_dialog_invalid_title">このライセンスは存在しないようです</string>
-    <string name="license_dialog_license_activated_message">AdGuard のご利用をお楽しみください。</string>
+    <string name="license_dialog_license_activated_message">AdGuardをお楽しみください。</string>
     <string name="license_dialog_license_activated_title">ライセンス認証完了</string>
     <string name="license_dialog_maxed_out_button">ライセンスを購入する</string>
     <string name="license_dialog_maxed_out_summary">このデバイスでライセンスを使用するには、AdGuardアカウントから未使用のデバイスを削除するか、もう一つのライセンスを購入する必要があります。</string>
@@ -880,22 +880,22 @@
     <string name="license_dialog_no_active_summary">お持ちのAdGuardライセンスを確認してください。ライセンスの更新やアップグレード、未使用のデバイスの削除、新しいライセンスの取得が必要な場合があります。</string>
     <string name="license_dialog_no_active_title">ライセンスを適用できませんでした</string>
     <string name="license_dialog_no_licenses_button">ライセンスを購入する</string>
-    <string name="license_dialog_no_licenses_summary">ぜひニーズに合うものをお選びください。</string>
+    <string name="license_dialog_no_licenses_summary">ニーズに合うものをお選びください。</string>
     <string name="license_dialog_no_licenses_title">ライセンスはまだありません</string>
     <string name="license_expiration_notification_expired_message">⚠️ 広告、トラッキング、危険なウェブサイトから端末が保護されていません。タップしてライセンスを管理する</string>
     <string name="license_expiration_notification_expired_title">ライセンス有効期限切れ</string>
-    <string name="license_expiration_notification_less_than_a_day_message">👑 フルバージョンの効果を保ちましょう。タップしてライセンスを管理する</string>
+    <string name="license_expiration_notification_less_than_a_day_message">👑 製品版の機能を維持しましょう。タップしてライセンスを管理する</string>
     <string name="license_expiration_notification_less_than_a_day_title">本日でライセンスが終了いたします。</string>
     <string name="license_expiration_notification_one_day_message">広告、トラッキング、危険なウェブサイトからの保護を維持しよう。タップしてライセンスを管理する</string>
-    <string name="license_expiration_notification_one_day_title">ライセンスは明日で終了いたします。</string>
-    <string name="license_expiration_notification_two_weeks_message">💚 AdGuard に保護させてください。タップしてライセンスを管理する</string>
-    <string name="license_expiration_notification_two_weeks_title">あと7日間でライセンスが終了いたします。</string>
+    <string name="license_expiration_notification_one_day_title">ライセンスの有効期限が明日までです。</string>
+    <string name="license_expiration_notification_two_weeks_message">💚 AdGuardにお任せください。タップしてライセンスを管理する</string>
+    <string name="license_expiration_notification_two_weeks_title">ライセンスの有効期限があと一週間で切れます。</string>
     <string name="license_key_button_activate">認証する</string>
     <string name="license_key_error">この欄に記入してください</string>
     <string name="license_key_key">ライセンスキー</string>
     <string name="license_key_title">ライセンスキーを使用する</string>
     <string name="license_kit_key_hint">数字と英文字を含むもの</string>
-    <string name="logging_level_notification_text">ログレベルは「デバッグ」になっています。 タップしますと「デフォルト」に変更</string>
+    <string name="logging_level_notification_text">ログレベルは「デバッグ」になっています。 タップして「デフォルト」に変更します</string>
     <string name="logging_level_notification_title">AdGuardの動作が遅くなっている可能性があります</string>
     <string name="manager_protection_settings_applied">設定が適用されました。</string>
     <string name="material_clock_toggle_content_description">午前または午後を選択</string>
@@ -915,7 +915,7 @@
     <string name="migration_splash_error_title">設定を移行できませんでした</string>
     <string name="migration_splash_processing_summary">アプリの新バージョンを準備中です。念のため、アプリは開いたままにしておいてください。</string>
     <string name="migration_splash_processing_title">AdGuard を設定中…</string>
-    <string name="migration_splash_success_summary">お客様の設定を新バージョンに移行しました。引き続きAdGuardのご利用をお楽しみください。</string>
+    <string name="migration_splash_success_summary">お客様の設定を新バージョンに移行しました。引き続きAdGuardをお楽しみください。</string>
     <string name="migration_splash_success_title">完了</string>
     <string name="mtrl_badge_numberless_content_description">新しい通知</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s を削除します</string>
@@ -961,7 +961,7 @@
     <string name="notification_channel_description_media">メディア再生に関する通知</string>
     <string name="notification_channel_description_service">AdGuardの保護ステータスについての通知</string>
     <string name="notification_channel_name_app_conflict">アプリの干渉</string>
-    <string name="notification_channel_name_app_update">アプリのアップデート</string>
+    <string name="notification_channel_name_app_update">アプリの更新</string>
     <string name="notification_channel_name_firewall">ファイアウォール</string>
     <string name="notification_channel_name_license">ライセンス</string>
     <string name="notification_channel_name_media">メディア</string>
@@ -991,8 +991,8 @@
     <string name="onboarding_search_ads_button_positive">ブロックする</string>
     <string name="onboarding_search_ads_message">GoogleやYahoo!などの検索エンジンにおいて、検索結果に表示される広告をブロックしますか？</string>
     <string name="onboarding_search_ads_title">検索広告</string>
-    <string name="onboarding_security_button_negative">いいえ、後で</string>
-    <string name="onboarding_security_button_positive_try">はい、無料で試してみる</string>
+    <string name="onboarding_security_button_negative">後で</string>
+    <string name="onboarding_security_button_positive_try">試してみる</string>
     <string name="onboarding_security_message">怪しいサイトやウイルスに感染したサイトにアクセスしようとしたときに警告を表示しますか？</string>
     <string name="onboarding_security_title">マルウェアやフィッシング詐欺をブロック</string>
     <string name="onboarding_social_button_negative">ブロックしない</string>
@@ -1554,7 +1554,7 @@ Idle time: %d s
 このデータは、アプリの使用状況、人気のある機能、潜在的なユーザビリティ問題などを理解するのに役立ちます。
 
 ※このデータは社内でのみ使用され、第三者と共有されることは一切ありません。"</string>
-    <string name="preferences_summary_about_app">本アプリの情報やご利用規約などを確認できます。</string>
+    <string name="preferences_summary_about_app">本アプリの情報や利用規約などを確認できます。</string>
     <string name="preferences_summary_exit_from_app">AdGuardによる保護、統計情報収集、アプリからの通知が停止されます。</string>
     <string name="preferences_summary_filtering_settings">アプリのフィルタリング、フィルタ、プロキシサーバー、ユーザースクリプトの設定</string>
     <string name="preferences_summary_general_settings">アプリの外観や機能を管理</string>
@@ -1593,17 +1593,17 @@ Idle time: %d s
     <string name="private_dns_notification_opportunistic_summary">DNSリクエストをフィルタリングするには、デバイスの設定でプライベートDNSを無効にしてください。</string>
     <string name="private_dns_notification_strict_summary">DNSリクエストをフィルタリングするには、デバイスの設定でプライベートDNSを無効にしてください。</string>
     <string name="private_dns_notification_title">「DNS通信を保護」を使用できません</string>
-    <string name="promo_button_buy">フル版を購入する</string>
+    <string name="promo_button_buy">製品版を購入する</string>
     <string name="promo_button_trial">無料で試してみる</string>
-    <string name="promo_notification_trial_available_eight_days_message">7日間の無料試用版でアプリ内広告ブロックを試せます。タップして詳細を見る</string>
+    <string name="promo_notification_trial_available_eight_days_message">1週間の無料試用版でアプリ内広告ブロックを試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_eight_days_title">ゲーム内広告に邪魔されないようになります。</string>
-    <string name="promo_notification_trial_available_five_days_message">7日間の無料試用版で「ブラウジング・セキュリティ」を試せます。タップして詳細を見る</string>
+    <string name="promo_notification_trial_available_five_days_message">1週間の無料試用版で「ブラウジング・セキュリティ」を試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_five_days_title">危険なウェブサイトを検知して警告を表示します。</string>
     <string name="promo_notification_trial_available_one_day_message">カード情報不要。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_one_day_title">拡張版の1週間無料</string>
-    <string name="promo_notification_trial_available_ten_days_message">「AdGuard Extra」は、普通の広告ブロッカーがブロックできない高度な広告もブロックします。7日間の無料試用版でユーザースクリプトを試せます。タップして詳細を見る</string>
+    <string name="promo_notification_trial_available_ten_days_message">「AdGuard Extra」は、普通の広告ブロッカーがブロックできない高度な広告もブロックします。1週間の無料試用版でユーザースクリプトを試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_ten_days_title">複雑な広告もしっかりブロック</string>
-    <string name="promo_notification_trial_available_two_days_message">7日間の無料試用版で「トラッキング防止」を試せます。タップして詳細を見る</string>
+    <string name="promo_notification_trial_available_two_days_message">1週間の無料試用版で「トラッキング防止」を試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_two_days_title">AdGuardは、企業による個人情報の追跡や販売を防止します。</string>
     <string name="promo_notification_trial_unavailable_eight_days_message">プレミアム版ではアプリ内広告もブロックできます。タップして詳細を見る</string>
     <string name="promo_notification_trial_unavailable_eight_days_title">ゲーム内広告に邪魔されないようになります。</string>
@@ -1615,14 +1615,14 @@ Idle time: %d s
     <string name="promo_notification_trial_unavailable_ten_days_title">AdGuardで技術的に複雑な広告もしっかりブロック</string>
     <string name="promo_notification_trial_unavailable_two_days_message">プレミアム版で「トラッキング防止」をアンロック。タップして詳細を見る</string>
     <string name="promo_notification_trial_unavailable_two_days_title">AdGuardは、企業による個人情報の追跡や販売を防止します。</string>
-    <string name="promo_perk_ads_blocking">ブラウザ以外のアプリでも広告をブロック</string>
+    <string name="promo_perk_ads_blocking">ブラウザ以外のアプリで広告をブロック</string>
     <string name="promo_perk_custom_filters">カスタムフィルタを追加できる</string>
-    <string name="promo_perk_phishing_protection">危険なウェブサイトについて警告してくれる</string>
+    <string name="promo_perk_phishing_protection">危険なウェブサイトを警告</string>
     <string name="promo_perk_protects_tracking">トラッキング（個人情報追跡）から守る</string>
-    <string name="promo_text_activate_license">既にライセンスを持っている方はこちら</string>
+    <string name="promo_text_activate_license">既ににライセンスを所有している場合</string>
     <string name="protection_browsing_security_content_message">それぞれのウェブサイトにアクセスするたびに、AdGuard は悪質なドメインやフィッシング詐欺ドメインのデータベース（常に更新）を参照します。訪問しようとしているサイトが危険なウェブサイトである場合は、警告メッセージが表示されます。&lt;br/>&lt;br/>※AdGuard は、ウェブサイトのURLではなく、ハッシュプレフィックスをチェックするため、ユーザー様がどのようなウェブサイトを訪問しているかはAdGuardにはわかりません。&lt;br/>&lt;br/>&lt;a href=%s>詳しくはこちら&lt;/a></string>
     <string name="protection_browsing_security_content_title">フィッシングやマルウェアから保護します。</string>
-    <string name="protection_browsing_security_premium_warning">フル版を購入しますと、この機能をご利用いただけます。</string>
+    <string name="protection_browsing_security_premium_warning">製品版を購入しますと、この機能をご利用いただけます。</string>
     <string name="protection_browsing_security_summary">フィッシングサイト、悪質サイト、詐欺サイトへのアクセスをブロックします。</string>
     <string name="protection_browsing_security_switch">ブラウジング・セキュリティ</string>
     <string name="protection_browsing_security_title">ブラウジング・セキュリティ</string>
@@ -1729,7 +1729,7 @@ Idle time: %d s
     <string name="protection_note_integration_enabled">併用モードが有効です。</string>
     <string name="protection_note_integration_failed">統合（併用）できません。サポートにお問い合わせください。</string>
     <string name="protection_note_integration_update_adguard">併用できません。AdGuard VPN アプリをアップグレードしてください。</string>
-    <string name="protection_note_integration_update_adguard_vpn">併用できません: AdGuard VPN アプリをアップデートしてください。</string>
+    <string name="protection_note_integration_update_adguard_vpn">併用できません: AdGuard VPN アプリを更新してください。</string>
     <string name="protection_summary_ad_blocking">ブラウザやアプリで広告をブロックします。</string>
     <string name="protection_summary_annoyances_blocking">Cookie使用同意許可通知やページ内ポップアップなどという要素をブロックします。</string>
     <string name="protection_summary_browsing_security">フィッシングサイト、悪質サイト、詐欺サイトへのアクセスをブロックします。</string>
@@ -1871,7 +1871,7 @@ Wi-Fi通信をブロック"</string>
     <string name="screen_about_app_title">AdGuard について</string>
     <string name="screen_about_app_version_history_link_title">バージョン履歴</string>
     <string name="screen_about_app_versions_latest">最新版のAdGuardを使用しています。</string>
-    <string name="screen_about_app_versions_update">バージョン %1$s が利用可能です。&lt;a href=%2$s>アップデートする&lt;/a></string>
+    <string name="screen_about_app_versions_update">バージョン %1$s が利用可能です。&lt;a href=%2$s>更新する&lt;/a></string>
     <string name="search_hint">検索</string>
     <string name="search_menu_title">検索</string>
     <string name="slow_down_notification_reason_debug_log_level">デバッグのログレベル</string>
@@ -2033,19 +2033,19 @@ Wi-Fi通信をブロック"</string>
     <string name="trial_activation_dialog_already_used_title">無料お試しライセンスは既に使用されています。</string>
     <string name="trial_activation_dialog_error_occurred_summary">"
 もう一度試すか、&lt;a href=%1$s>サポートにご連絡&lt;/a>ください。"</string>
-    <string name="trial_activation_dialog_error_occurred_title">無料お試し版を有効化できませんでした</string>
-    <string name="trial_activation_dialog_success_message">AdGuard のご利用をお楽しみください。</string>
-    <string name="trial_activation_dialog_success_title">無料お試し版有効化完了です。</string>
+    <string name="trial_activation_dialog_error_occurred_title">無料試用版を有効化できませんでした</string>
+    <string name="trial_activation_dialog_success_message">AdGuardをお楽しみください。</string>
+    <string name="trial_activation_dialog_success_title">無料試用版有効化完了です。</string>
     <string name="trial_activation_enter_email">お使いのメールアドレスを入力してください</string>
     <string name="trial_activation_error_email_invalid">example@mail.com という形式でメールアドレスを入力してください</string>
-    <string name="trial_activation_error_request_trial">無料お試し版を有効化できませんでした</string>
+    <string name="trial_activation_error_request_trial">無料試用版を有効化できませんでした</string>
     <string name="trial_activation_summary">お客様のメールアドレスに確認用リンクをお送りします。</string>
     <string name="trial_activation_title">アカウントのご登録</string>
     <string name="trial_chooser_button_buy_license">ライセンスを購入する</string>
     <string name="trial_chooser_button_create_account">メールアドレスで続ける</string>
     <string name="trial_chooser_button_facebook">Facebookで続ける</string>
     <string name="trial_chooser_button_google">Googleで続ける</string>
-    <string name="trial_chooser_progress">無料お試し版を準備中…</string>
+    <string name="trial_chooser_progress">無料試用版を準備中…</string>
     <string name="trial_chooser_summary">ログインまたは登録して、14日間の無料お試しを有効にできます。</string>
     <string name="trial_chooser_text_or">もしくは</string>
     <string name="trial_chooser_title">無料で試してみる</string>
@@ -2082,13 +2082,13 @@ Wi-Fi通信をブロック"</string>
     <string name="unit_number_degree_thousand_two_signs">%.0f千</string>
     <string name="unit_number_degree_trillion_one_sign">%.1f兆</string>
     <string name="update_application_snackbar_downloading">ダウンロード中…</string>
-    <string name="update_application_snackbar_error_canceled">アップデートがキャンセルされました</string>
-    <string name="update_application_snackbar_error_common">アップデートが失敗しました。もう一度お試しください。</string>
+    <string name="update_application_snackbar_error_canceled">更新がキャンセルされました</string>
+    <string name="update_application_snackbar_error_common">更新が失敗しました。もう一度お試しください。</string>
     <string name="updates_application_summary_checking">確認中…</string>
     <string name="updates_application_summary_latest">最新版を使用中です。</string>
-    <string name="updates_application_summary_update">バージョン %1$s が利用可能です。&lt;br/>&lt;br/>&lt;a href=%2$s>アップデート内容を確認する&lt;/a></string>
+    <string name="updates_application_summary_update">バージョン %1$s が利用可能です。&lt;br/>&lt;br/>&lt;a href=%2$s>更新内容を確認する&lt;/a></string>
     <string name="updates_application_title">AdGuard v%s</string>
-    <string name="updates_check_updates_button">アップデートを確認する</string>
+    <string name="updates_check_updates_button">更新を確認する</string>
     <string name="updates_dns_filters_summary_checking">確認中…</string>
     <string name="updates_dns_filters_summary_latest">最新版を使用中です。</string>
     <string name="updates_dns_filters_summary_not_available">「DNS通信を保護」はオフになっています。</string>
@@ -2108,17 +2108,17 @@ Wi-Fi通信をブロック"</string>
     <string name="updates_filters_summary_update_failure">%s の更新が失敗しました</string>
     <string name="updates_filters_title">コンテンツブロッカーフィルタ</string>
     <string name="updates_release_notes_dialog_title">"AdGuard
-v%s アップデート内容"</string>
+v%s 更新内容"</string>
     <string name="updates_safebrowsing_summary_checking">確認中…</string>
     <string name="updates_safebrowsing_summary_latest">最新版を使用中です。</string>
     <string name="updates_safebrowsing_summary_not_available">「ブラウジング・セキュリティ」は無効になっています</string>
     <string name="updates_safebrowsing_summary_update">更新しました。</string>
     <string name="updates_safebrowsing_title">ブラウジング・セキュリティのデータベース</string>
     <string name="updates_summary_error">更新できませんでした</string>
-    <string name="updates_title">アップデート</string>
-    <string name="updates_update_app_button">アプリをアップデートする</string>
+    <string name="updates_title">更新</string>
+    <string name="updates_update_app_button">アプリを更新する</string>
     <string name="updates_update_app_failed_button">ウェブサイトへ</string>
-    <string name="updates_update_app_failed_message">アプリのアップデートを開始できません</string>
+    <string name="updates_update_app_failed_message">アプリの更新を開始できません</string>
     <string name="updates_whats_new_dialog_detailed_statistics_message">各アプリが行う通信、企業への通信、ドメインへの通信に関する詳細な統計情報を見ることができるようになりました。</string>
     <string name="updates_whats_new_dialog_detailed_statistics_title">詳細な統計を見れる「統計」画面</string>
     <string name="updates_whats_new_dialog_full_redesign_message">より軽く、よりミニマルに、よりわかりやすくすっきりしたデザインにしました。主要な機能は専用画面に集めて、アクセスがより簡単に。</string>
@@ -2126,7 +2126,7 @@ v%s アップデート内容"</string>
     <string name="updates_whats_new_dialog_got_it_button">OK</string>
     <string name="updates_whats_new_dialog_improved_integration_message">併用モードの安定性を大幅に向上しました。そして、プロキシ対象からアプリを外すことができるようになりました（プロキシがAdGuard VPNである場合も含む）。</string>
     <string name="updates_whats_new_dialog_improved_integration_title">AdGuard VPN との併用モードを改善</string>
-    <string name="updates_whats_new_dialog_learn_more_message">本アップデートについてもっと詳しくは&lt;a href=%1$s>こちらのブログ記事&lt;/a>をご覧ください。</string>
+    <string name="updates_whats_new_dialog_learn_more_message">本更新についてもっと詳しくは&lt;a href=%1$s>こちらのブログ記事&lt;/a>をご覧ください。</string>
     <string name="updates_whats_new_dialog_learn_more_title">もっと詳しく知りたい方へ</string>
     <string name="updates_whats_new_dialog_message">アプリのデザインを一新し、コードを書き直しました。変更内容を見てみましょう。</string>
     <string name="updates_whats_new_dialog_new_firewall_message">一つのところから端末上の全アプリ・各アプリのインターネットへのアクセスを細かく制御でき、自分の知らないところでアプリが勝手にインターネットを使用するのを防ぐことができます。</string>
