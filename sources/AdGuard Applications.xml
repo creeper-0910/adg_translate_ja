@@ -126,6 +126,8 @@
   <string name="top_clients">Top clients</string>
   <string name="no_clients_found">No clients found</string>
   <string name="general_statistics">General statistics</string>
+  <string name="top_upstreams">Top upstreams</string>
+  <string name="no_upstreams_data_found">No upstreams data found</string>
   <string name="number_of_dns_query_days">The number of DNS queries processed for the last {{count}} day</string>
   <string name="number_of_dns_query_days_plural">The number of DNS queries processed for the last {{count}} days</string>
   <string name="number_of_dns_query_24_hours">The number of DNS queries processed for the last 24 hours</string>
@@ -135,6 +137,7 @@
   <string name="enforced_save_search">Enforced safe search</string>
   <string name="number_of_dns_query_to_safe_search">The number of DNS requests to search engines for which Safe Search was enforced</string>
   <string name="average_processing_time">Average processing time</string>
+  <string name="processing_time">Processing time</string>
   <string name="average_processing_time_hint">Average time in milliseconds on processing a DNS request</string>
   <string name="block_domain_use_filters_and_hosts">Block domains using filters and hosts files</string>
   <string name="filters_block_toggle_hint">You can setup blocking rules in the <a>Filters</a> settings.</string>
@@ -159,6 +162,7 @@
   <string name="upstream_dns_configured_in_file">Configured in {{path}}</string>
   <string name="test_upstream_btn">Test upstreams</string>
   <string name="upstreams">Upstreams</string>
+  <string name="upstream">Upstream</string>
   <string name="apply_btn">Apply</string>
   <string name="disabled_filtering_toast">Disabled filtering</string>
   <string name="enabled_filtering_toast">Enabled filtering</string>
