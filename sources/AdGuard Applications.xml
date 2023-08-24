@@ -8,7 +8,7 @@
   <string name="load_balancing">Load-balancing</string>
   <string name="load_balancing_desc">Query one upstream server at a time. AdGuard Home uses its weighted random algorithm to pick the server so that the fastest server is used more often.</string>
   <string name="bootstrap_dns">Bootstrap DNS servers</string>
-  <string name="bootstrap_dns_desc">Bootstrap DNS servers are used to resolve IP addresses of the DoH/DoT resolvers you specify as upstreams.</string>
+  <string name="bootstrap_dns_desc">IP addresses of DNS servers used to resolve IP addresses of the DoH/DoT resolvers you specify as upstreams. Comments are not permitted.</string>
   <string name="local_ptr_title">Private reverse DNS servers</string>
   <string name="local_ptr_desc">The DNS servers that AdGuard Home uses for local PTR queries. These servers are used to resolve PTR requests for addresses in private IP ranges, for example \"192.168.12.34\", using reverse DNS. If not set, AdGuard Home uses the addresses of the default DNS resolvers of your OS except for the addresses of AdGuard Home itself.</string>
   <string name="local_ptr_default_resolver">By default, AdGuard Home uses the following reverse DNS resolvers: {{ip}}.</string>
@@ -569,7 +569,7 @@
   <string name="rewrite_A">&lt;0&gt;A&lt;/0&gt;: special value, keep &lt;0&gt;A&lt;/0&gt; records from the upstream</string>
   <string name="rewrite_AAAA">&lt;0&gt;AAAA&lt;/0&gt;: special value, keep &lt;0&gt;AAAA&lt;/0&gt; records from the upstream</string>
   <string name="disable_ipv6">Disable resolving of IPv6 addresses</string>
-  <string name="disable_ipv6_desc">Drop all DNS queries for IPv6 addresses (type AAAA).</string>
+  <string name="disable_ipv6_desc">Drop all DNS queries for IPv6 addresses (type AAAA) and remove IPv6 hints from HTTPS responses.</string>
   <string name="fastest_addr">Fastest IP address</string>
   <string name="fastest_addr_desc">Query all DNS servers and return the fastest IP address among all responses. This slows down DNS queries as AdGuard Home has to wait for responses from all DNS servers, but improves the overall connectivity.</string>
   <string name="autofix_warning_text">If you click \"Fix\", AdGuard Home will configure your system to use AdGuard Home DNS server.</string>
