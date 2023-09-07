@@ -538,8 +538,8 @@
   <string name="statistics_enable">Enable statistics</string>
   <string name="ignore_domains">Ignored domains (separated by newline)</string>
   <string name="ignore_domains_title">Ignored domains</string>
-  <string name="ignore_domains_desc_stats">Queries for these domains are not written to the statistics</string>
-  <string name="ignore_domains_desc_query">Queries for these domains are not written to the query log</string>
+  <string name="ignore_domains_desc_stats">Queries matching these rules are not written to the statistics</string>
+  <string name="ignore_domains_desc_query">Queries matching these rules are not written to the query log</string>
   <string name="interval_hours">{{count}} hour</string>
   <string name="interval_hours_plural">{{count}} hours</string>
   <string name="filters_configuration">Filters configuration</string>
