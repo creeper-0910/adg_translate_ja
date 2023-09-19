@@ -284,6 +284,9 @@
   <string name="custom_ip">Custom IP</string>
   <string name="blocking_ipv4">Blocking IPv4</string>
   <string name="blocking_ipv6">Blocking IPv6</string>
+  <string name="blocked_response_ttl">Blocked response TTL</string>
+  <string name="blocked_response_ttl_desc">Specifies for how many seconds the clients should cache a filtered response</string>
+  <string name="form_enter_blocked_response_ttl">Enter blocked response TTL (seconds)</string>
   <string name="dnscrypt">DNSCrypt</string>
   <string name="dns_over_https">DNS-over-HTTPS</string>
   <string name="dns_over_tls">DNS-over-TLS</string>
