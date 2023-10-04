@@ -74,7 +74,9 @@
   <string name="dhcp_dynamic_ip_found">Your system uses dynamic IP address configuration for interface &lt;0&gt;{{interfaceName}}&lt;/0&gt;. In order to use DHCP server, a static IP address must be set. Your current IP address is &lt;0&gt;{{ipAddress}}&lt;/0&gt;. AdGuard Home will automatically set this IP address as static if you press the \"Enable DHCP server\" button.</string>
   <string name="dhcp_lease_added">Static lease \"{{key}}\" successfully added</string>
   <string name="dhcp_lease_deleted">Static lease \"{{key}}\" successfully deleted</string>
+  <string name="dhcp_lease_updated">Static lease \"{{key}}\" successfully updated</string>
   <string name="dhcp_new_static_lease">New static lease</string>
+  <string name="dhcp_edit_static_lease">Edit static lease</string>
   <string name="dhcp_static_leases_not_found">No DHCP static leases found</string>
   <string name="dhcp_add_static_lease">Add static lease</string>
   <string name="dhcp_reset_leases">Reset all leases</string>
