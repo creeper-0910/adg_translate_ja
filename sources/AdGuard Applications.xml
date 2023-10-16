@@ -120,7 +120,8 @@
   <string name="stats_malware_phishing">Blocked malware/phishing</string>
   <string name="stats_adult">Blocked adult websites</string>
   <string name="stats_query_domain">Top queried domains</string>
-  <string name="for_last_24_hours">for the last 24 hours</string>
+  <string name="for_last_hours">for the last {{count}} hour</string>
+  <string name="for_last_hours_plural">for the last {{count}} hours</string>
   <string name="for_last_days">for the last {{count}} day</string>
   <string name="for_last_days_plural">for the last {{count}} days</string>
   <string name="stats_disabled">The statistics have been disabled. You can turn it on from the &lt;0&gt;settings page&lt;/0&gt;.</string>
@@ -135,7 +136,8 @@
   <string name="no_upstreams_data_found">No upstreams data found</string>
   <string name="number_of_dns_query_days">The number of DNS queries processed for the last {{count}} day</string>
   <string name="number_of_dns_query_days_plural">The number of DNS queries processed for the last {{count}} days</string>
-  <string name="number_of_dns_query_24_hours">The number of DNS queries processed for the last 24 hours</string>
+  <string name="number_of_dns_query_hours">The number of DNS queries processed for the last {{count}} hour</string>
+  <string name="number_of_dns_query_hours_plural">The number of DNS queries processed for the last {{count}} hours</string>
   <string name="number_of_dns_query_blocked_24_hours">The number of DNS requests blocked by adblock filters and hosts blocklists</string>
   <string name="number_of_dns_query_blocked_24_hours_by_sec">The number of DNS requests blocked by the AdGuard browsing security module</string>
   <string name="number_of_dns_query_blocked_24_hours_adult">The number of adult websites blocked</string>
