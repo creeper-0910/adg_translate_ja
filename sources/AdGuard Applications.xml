@@ -147,7 +147,6 @@
   <string name="average_processing_time">Average processing time</string>
   <string name="average_upstream_response_time">Average upstream response time</string>
   <string name="response_time">Response time</string>
-  <string name="processing_time">Processing time</string>
   <string name="average_processing_time_hint">Average time in milliseconds on processing a DNS request</string>
   <string name="block_domain_use_filters_and_hosts">Block domains using filters and hosts files</string>
   <string name="filters_block_toggle_hint">You can setup blocking rules in the <a>Filters</a> settings.</string>
@@ -312,6 +311,16 @@
   <string name="edns_use_custom_ip">Use custom IP for EDNS</string>
   <string name="edns_use_custom_ip_desc">Allow to use custom IP for EDNS</string>
   <string name="rate_limit_desc">The number of requests per second allowed per client. Setting it to 0 means no limit.</string>
+  <string name="rate_limit_subnet_len_ipv4">Subnet prefix length for IPv4 addresses</string>
+  <string name="rate_limit_subnet_len_ipv4_desc">Subnet prefix length for IPv4 addresses used for rate limiting. The default is 24</string>
+  <string name="rate_limit_subnet_len_ipv4_error">The IPv4 subnet prefix length should be between 0 and 32</string>
+  <string name="rate_limit_subnet_len_ipv6">Subnet prefix length for IPv6 addresses</string>
+  <string name="rate_limit_subnet_len_ipv6_desc">Subnet prefix length for IPv6 addresses used for rate limiting. The default is 56</string>
+  <string name="rate_limit_subnet_len_ipv6_error">The IPv6 subnet prefix length should be between 0 and 128</string>
+  <string name="form_enter_rate_limit_subnet_len">Enter subnet prefix length for rate limiting</string>
+  <string name="rate_limit_whitelist">Rate limiting allowlist</string>
+  <string name="rate_limit_whitelist_desc">IP addresses excluded from rate limiting</string>
+  <string name="rate_limit_whitelist_placeholder">Enter one IP address per line</string>
   <string name="blocking_ipv4_desc">IP address to be returned for a blocked A request</string>
   <string name="blocking_ipv6_desc">IP address to be returned for a blocked AAAA request</string>
   <string name="blocking_mode_default">Default: Respond with zero IP address (0.0.0.0 for A; :: for AAAA) when blocked by Adblock-style rule; respond with the IP address specified in the rule when blocked by /etc/hosts-style rule</string>
