@@ -736,4 +736,7 @@
   <string name="thursday_short">Thu</string>
   <string name="friday_short">Fri</string>
   <string name="saturday_short">Sat</string>
+  <string name="upstream_dns_cache_configuration">Upstream DNS cache configuration</string>
+  <string name="enable_upstream_dns_cache">Enable DNS caching for this client\'s custom upstream configuration</string>
+  <string name="dns_cache_size">DNS cache size, in bytes</string>
 </resources>
