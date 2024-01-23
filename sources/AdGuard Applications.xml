@@ -424,6 +424,9 @@
   <string name="encryption_hostnames">Hostnames</string>
   <string name="encryption_reset">Are you sure you want to reset encryption settings?</string>
   <string name="encryption_warning">Warning</string>
+  <string name="encryption_plain_dns_enable">Enable plain DNS</string>
+  <string name="encryption_plain_dns_desc">Plain DNS is enabled by default. You can disable it to force all devices to use encrypted DNS. To do this, you must enable at least one encrypted DNS protocol</string>
+  <string name="encryption_plain_dns_error">To disable plain DNS, enable at least one encrypted DNS protocol</string>
   <string name="topline_expiring_certificate">Your SSL certificate is about to expire. Update &lt;0&gt;Encryption settings&lt;/0&gt;.</string>
   <string name="topline_expired_certificate">Your SSL certificate is expired. Update &lt;0&gt;Encryption settings&lt;/0&gt;.</string>
   <string name="form_error_port_range">Enter port number in the range of 80-65535</string>
