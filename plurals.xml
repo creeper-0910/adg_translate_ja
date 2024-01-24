@@ -22,7 +22,7 @@
         <item quantity="other">%s件の新しいアクションを表示する</item>
     </plurals>
     <plurals name="home_summary_protection_enabled_when_trial">
-        <item quantity="other">無料お試し版は後%1$s日で終了します。&lt;font color=\"%2$s\">&lt;a href=%3$s>フルバージョンを購入する&lt;/a>&lt;/font></item>
+        <item quantity="other">無料お試し版は後%1$s日で終了します。&lt;font color=\"%2$s\">&lt;a href=%3$s>製品版を購入する&lt;/a>&lt;/font></item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d 件の新しい通知</item>
