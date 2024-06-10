@@ -4,7 +4,7 @@
     <string name="abc_action_bar_up_description">前に戻る</string>
     <string name="abc_action_menu_overflow_description">その他のオプション</string>
     <string name="abc_action_mode_done">完了</string>
-    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activity_chooser_view_see_all">全て表示</string>
     <string name="abc_activitychooserview_choose_application">アプリの選択</string>
     <string name="abc_capital_off">OFF</string>
     <string name="abc_capital_on">ON</string>
@@ -47,41 +47,41 @@
     <string name="about_license_status_free_license">無料版</string>
     <string name="about_license_status_free_license_description">トラッキング防止、ブラウジング・セキュリティ、カスタムフィルター、ブラウザ以外のアプリでの広告ブロックは無料版ではご利用いただけません。</string>
     <string name="about_license_status_paid">ライセンス</string>
-    <string name="about_license_status_personal">パーソナル版</string>
-    <string name="about_license_status_trial">試用</string>
+    <string name="about_license_status_personal">個人版</string>
+    <string name="about_license_status_trial">試用版</string>
     <string name="about_license_trial">7日間無料お試し</string>
     <string name="about_license_upgrade">アップグレード</string>
     <string name="about_license_valid_until">%s まで有効</string>
-    <string name="about_license_yearly_subscription">ご利用中のプラン: 1年版</string>
+    <string name="about_license_yearly_subscription">利用中のプラン: 1年版</string>
     <string name="accessibility_context_faq">詳細はこちら</string>
     <string name="accessibility_context_menu">オプションメニューを開く</string>
     <string name="actions_go_to_system_settings">設定</string>
     <string name="activated_license_positive_button">よし</string>
-    <string name="activated_license_summary">ライセンスが有効になりました。フル機能をお楽しみください!ご質問などがありましたら、いつでもお問い合わせください。</string>
-    <string name="activated_license_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をどうぞ</string>
+    <string name="activated_license_summary">ライセンスが有効になりました。全ての機能をお楽しみください!ご質問などがありましたら、いつでもお問い合わせください。</string>
+    <string name="activated_license_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をお見せします!</string>
     <string name="activated_trial_positive_button">よし</string>
-    <string name="activated_trial_summary">無料お試し版が有効になりました。フル機能をお楽しみください!ご質問などがありましたら、いつでもご連絡ください。</string>
-    <string name="activated_trial_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をどうぞ</string>
+    <string name="activated_trial_summary">無料お試し版が有効になりました。全ての機能をお楽しみください!ご質問などがありましたら、いつでもご連絡ください。</string>
+    <string name="activated_trial_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をお見せします!</string>
     <string name="ad_blocking_allow_list_title">ウェブサイト・ホワイトリスト</string>
     <string name="ad_blocking_filtered_apps_dialog_disable_for_all_button_disable">停止する</string>
-    <string name="ad_blocking_filtered_apps_dialog_disable_for_all_summary">これらのアプリのトラフィックはフィルタリングされなくなりますま。広告やトラッカーはブロックされなくなります。</string>
+    <string name="ad_blocking_filtered_apps_dialog_disable_for_all_summary">これらのアプリのトラフィックはフィルタリングされなくなり、広告やトラッカーはブロックされなくなります。</string>
     <string name="ad_blocking_filtered_apps_dialog_reset_to_default_button_disable">初期化</string>
-    <string name="ad_blocking_filtered_apps_dialog_reset_to_default_summary">これらのアプリの設定はすべてデフォルトに戻されます。問題なしアプリはフィルタリングされます。</string>
+    <string name="ad_blocking_filtered_apps_dialog_reset_to_default_summary">これらのアプリの設定は全てデフォルトに戻されます。問題なしアプリはフィルタリングされます。</string>
     <string name="ad_blocking_filtered_apps_dialog_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_1_button_all">全アプリをフィルタリングする</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_1_button_safely">問題なしアプリをフィルタリングする</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_1_summary">システムアプリや銀行アプリなど、一部のアプリは正しく動作しない場合があります。</string>
-    <string name="ad_blocking_filtered_apps_enable_all_dialog_act_1_title">すべてをフィルタリングしますか？</string>
+    <string name="ad_blocking_filtered_apps_enable_all_dialog_act_1_title">全てをフィルタリングしますか？</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_2_button_anyway">とにかくフィルタリングする</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_2_button_back">戻る</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_2_summary">広告ブロックは、以下のアプリに干渉する可能性があります。</string>
     <string name="ad_blocking_filtered_apps_enable_all_dialog_act_2_title">一部のアプリが正しく動作しない可能性あり</string>
     <string name="ad_blocking_filtered_apps_option_app_management">アプリの管理</string>
     <string name="ad_blocking_filtered_apps_option_disable_for_all">全アプリでフィルタリングを停止する</string>
-    <string name="ad_blocking_filtered_apps_option_disable_for_all_title">すべてのフィルタリングを停止しますか？</string>
+    <string name="ad_blocking_filtered_apps_option_disable_for_all_title">全てのフィルタリングを停止しますか？</string>
     <string name="ad_blocking_filtered_apps_option_enable_for_all">全アプリをフィルタリングする</string>
     <string name="ad_blocking_filtered_apps_option_reset_to_default">デフォルトにリセット</string>
-    <string name="ad_blocking_filtered_apps_snack_enabled_for_all_apps">フィルタリングはすべてのアプリで有効です。一部のアプリは正しく動作しない可能性があります。</string>
+    <string name="ad_blocking_filtered_apps_snack_enabled_for_all_apps">フィルタリングは全てのアプリで有効です。一部のアプリは正しく動作しない可能性があります。</string>
     <string name="ad_blocking_filtered_apps_snack_enabled_for_problem_free_apps">問題なしアプリに対してフィルタリングが有効になりました。</string>
     <string name="ad_blocking_filtered_apps_snack_stopped_for_all">全アプリに対してフィルタリングを停止しました。</string>
     <string name="ad_blocking_filtered_apps_summary">これらのアプリで広告・トラッカー(個人情報追跡)・迷惑要素をブロックします。</string>
@@ -91,7 +91,7 @@
     <string name="ad_blocking_regional_lists_locale_da">デンマーク語</string>
     <string name="ad_blocking_regional_lists_locale_de">ドイツ語</string>
     <string name="ad_blocking_regional_lists_locale_el">ギリシャ語</string>
-    <string name="ad_blocking_regional_lists_locale_en">Japanese</string>
+    <string name="ad_blocking_regional_lists_locale_en">英語</string>
     <string name="ad_blocking_regional_lists_locale_es">スペイン語</string>
     <string name="ad_blocking_regional_lists_locale_et">エストニア語</string>
     <string name="ad_blocking_regional_lists_locale_fa">ペルシア語</string>
@@ -125,13 +125,13 @@
     <string name="ad_blocking_regional_lists_locale_uk">ウクライナ語</string>
     <string name="ad_blocking_regional_lists_locale_vi">ベトナム語</string>
     <string name="ad_blocking_regional_lists_locale_zh">中国語</string>
-    <string name="ad_blocking_regional_lists_menu_dialog_disable_all_button">無効にする</string>
+    <string name="ad_blocking_regional_lists_menu_dialog_disable_all_button">全て無効にする</string>
     <string name="ad_blocking_regional_lists_menu_dialog_disable_all_summary">特定言語のウェブサイトでは広告がブロックされなくなります。</string>
-    <string name="ad_blocking_regional_lists_menu_dialog_disable_all_title">全部無効にしますか？</string>
-    <string name="ad_blocking_regional_lists_menu_disable_all">全部無効にする</string>
+    <string name="ad_blocking_regional_lists_menu_dialog_disable_all_title">全て無効にしますか？</string>
+    <string name="ad_blocking_regional_lists_menu_disable_all">全て無効にする</string>
     <string name="ad_blocking_regional_lists_search_empty">何も見つかりません</string>
     <string name="ad_blocking_regional_lists_summary">特定の言語の Web サイトで広告をブロックします。</string>
-    <string name="ad_blocking_reset_to_defaults_dialog_description">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="ad_blocking_reset_to_defaults_dialog_description">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="ad_blocking_reset_to_defaults_dialog_note">これらのカスタマイズは削除されます: %s</string>
     <string name="ad_blocking_reset_to_defaults_dialog_note_custom_filters_title">カスタムフィルタ</string>
     <string name="ad_blocking_reset_to_defaults_dialog_note_custom_servers_title">カスタムサーバー</string>
@@ -145,7 +145,7 @@
     <string name="ad_blocking_title_basic_protection">基本的な保護</string>
     <string name="ad_blocking_title_language_specific">言語特化広告ブロック</string>
     <string name="ad_blocking_title_other_ad_blocking_filters">その他の広告ブロックフィルタ</string>
-    <string name="ad_blocking_user_rules_summary">ユーザーが手動で追加したルールと「最新アクティビティ」経由で作成されたルールがこちらにあります。</string>
+    <string name="ad_blocking_user_rules_summary">ユーザーが手動で追加したルールと「最新のアクティビティ」経由で作成されたルールがこちらにあります。</string>
     <string name="ad_blocking_user_rules_title">ユーザーフィルタ</string>
     <string name="add_allow_rule_pattern_subtitle">許可されるべきもの</string>
     <string name="add_dns_user_rule_dialog_title_add">ユーザールールを追加</string>
@@ -174,14 +174,14 @@
     <string name="adguard_vpn_integration_dialog_disable_integration_title">併用モードを無効にする</string>
     <string name="adguard_vpn_integration_dialog_disable_negative_button_title">無効にする</string>
     <string name="adguard_vpn_integration_dialog_integration_enabled_button">OK</string>
-    <string name="adguard_vpn_integration_dialog_integration_enabled_summary">AdGuard VPN とAdGuard広告ブロッカーアプリは互換性があり、連携してあなたを守ります。</string>
-    <string name="adguard_vpn_integration_dialog_integration_enabled_title">保護がダブルになりました。</string>
+    <string name="adguard_vpn_integration_dialog_integration_enabled_summary">AdGuard VPN とAdGuard広告ブロッカーは互換性があり、連携してあなたを守ります。</string>
+    <string name="adguard_vpn_integration_dialog_integration_enabled_title">保護がより強固になりました。</string>
     <string name="adguard_vpn_integration_dialog_positive_button_title">AdGuard VPN をインストールする</string>
     <string name="adguard_vpn_integration_dialog_primary_button_title">アップデート</string>
     <string name="adguard_vpn_integration_dialog_summary_install_adguard_vpn_app">AdGuard は、広告やトラッカーから守ります。それに加えて AdGuard VPN をインストールしますと、匿名性確保とトラフィック暗号化でオンラインセキュリティをさらに向上できます。</string>
     <string name="adguard_vpn_integration_dialog_summary_update_adguard_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard をアップデートしてください。</string>
     <string name="adguard_vpn_integration_dialog_summary_update_adguard_vpn_app">AdGuard と AdGuard VPN は併用可能です。両アプリの互換性のために、AdGuard VPN アプリをアップデートしてください。</string>
-    <string name="adguard_vpn_integration_dialog_title_install_adguard_vpn_app">保護をダブルに</string>
+    <string name="adguard_vpn_integration_dialog_title_install_adguard_vpn_app">保護をより強固に</string>
     <string name="adguard_vpn_integration_dialog_title_update_adguard_app">AdGuard VPNと併用するにはAdGuardをアップデートしてください。</string>
     <string name="adguard_vpn_integration_dialog_title_update_adguard_vpn_app">併用するには AdGuard VPN をアップデートしてください。</string>
     <string name="ads_protection_summary">ブラウザ、ゲーム、その他のアプリなどで、どこでも広告を削除</string>
@@ -194,17 +194,17 @@
     <string name="allow_list_dialog_duplicate_error">このウェブサイトは既に追加されています</string>
     <string name="allow_list_dialog_title">ウェブサイトのアドレス</string>
     <string name="allow_list_dialog_title_edit">ウェブサイトの編集</string>
-    <string name="allow_list_menu_clear_all">全部削除する</string>
+    <string name="allow_list_menu_clear_all">全て削除する</string>
     <string name="allow_list_menu_dialog_button_clear_all">削除する</string>
     <string name="allow_list_menu_dialog_button_disable_all">無効にする</string>
     <string name="allow_list_menu_dialog_button_enable_all">有効にする</string>
-    <string name="allow_list_menu_dialog_summary_clear_all">すべてのホワイトリストルールが完全に削除されます。</string>
-    <string name="allow_list_menu_dialog_summary_disable_all">すべてのホワイトリストルールが無効になります。</string>
-    <string name="allow_list_menu_dialog_summary_enable_all">すべてのホワイトリストルールが有効になります。</string>
-    <string name="allow_list_menu_dialog_title_clear_all">全部削除しますか？</string>
-    <string name="allow_list_menu_dialog_title_disable_all">全部無効にしますか？</string>
-    <string name="allow_list_menu_dialog_title_enable_all">全部有効にしますか？</string>
-    <string name="allow_list_menu_disable_all">全部無効にする</string>
+    <string name="allow_list_menu_dialog_summary_clear_all">全てのホワイトリストルールが完全に削除されます。</string>
+    <string name="allow_list_menu_dialog_summary_disable_all">全てのホワイトリストルールが無効になります。</string>
+    <string name="allow_list_menu_dialog_summary_enable_all">全てのホワイトリストルールが有効になります。</string>
+    <string name="allow_list_menu_dialog_title_clear_all">全て削除しますか？</string>
+    <string name="allow_list_menu_dialog_title_disable_all">全て無効にしますか？</string>
+    <string name="allow_list_menu_dialog_title_enable_all">全て有効にしますか？</string>
+    <string name="allow_list_menu_disable_all">全て無効にする</string>
     <string name="allow_list_menu_enable_all">全て有効にする</string>
     <string name="allow_list_nothing_to_change_snack">変更できる項目がありません</string>
     <string name="allow_list_removed">サイトがホワイトリストから削除されました。</string>
@@ -217,7 +217,7 @@
     <string name="annoyance_blocking_consent_dialog_filter_policy_entity_text">AdGuard の迷惑要素フィルタがブロックするものの詳細については、&lt;a href=%s>フィルターポリシー&lt;/a>を参照してください。サードパーティのフィルタについては、各社のホームページをご覧ください。</string>
     <string name="annoyance_blocking_consent_dialog_header_entity_plural_note">これらのフィルタを有効にしますか?</string>
     <string name="annoyance_blocking_consent_dialog_header_entity_single_note">このフィルタを有効にしますか?</string>
-    <string name="annoyance_blocking_consent_dialog_header_entity_summary">迷惑要素フィルタを有効にしようとしています。これらのフィルタは、ウェブサイトのコンテンツと関係がない、または関係があってもユーザー体験にとって迷惑である要素をブロックします。なかにはウェブサイトの所有者が必須とみなす要素も含まれる可能性があり、ブロックすると、所有者の利用規約違反になったりする場合があります。あなたが訪問するウェブサイトの利用規約の遵守について、AdGuard は一切責任を負いかねますのでご注意ください。</string>
+    <string name="annoyance_blocking_consent_dialog_header_entity_summary">迷惑要素フィルタを有効にしようとしています。&lt;br>これらのフィルタは、サイトのコンテンツと関係がない、またはユーザー体験を損ねる要素をブロックします。&lt;br>中にはサイトの所有者が必須とみなす要素も含まれる可能性があり、ブロックすると、サイト内の利用規約に違反することになるかもしれません。&lt;br>あなたが訪問したサイト内の利用規約に違反した場合、AdGuard は一切責任を負いかねますのでご注意ください。</string>
     <string name="annoyance_blocking_consent_dialog_title">迷惑要素フィルタを有効にする前によくお読みください</string>
     <string name="annoyances_blocking_block_cookie">クッキー(Cookie)使用同意通知をブロックする</string>
     <string name="annoyances_blocking_block_cookie_summary">ウェブサイトのCookie使用許可同意に関する通知をブロックします。</string>
@@ -290,7 +290,7 @@
     <string name="assistant_allowlist_title_removed">サイトがホワイトリストから削除されました。</string>
     <string name="assistant_app_app_management">アプリの管理</string>
     <string name="assistant_app_firewall">ファイアウォール設定</string>
-    <string name="assistant_app_recent_activity">最新アクティビティ</string>
+    <string name="assistant_app_recent_activity">最新のアクティビティ</string>
     <string name="assistant_app_statistics">このアプリの統計</string>
     <string name="assistant_app_summary_firewall">接続は%s前に「ファイアウォール」でブロックされました。</string>
     <string name="assistant_app_summary_used">%s前に使用されました</string>
@@ -306,7 +306,7 @@
     <string name="assistant_tab_websites_title">ウェブサイト</string>
     <string name="assistant_title">AdGuard アシスタント</string>
     <string name="assistant_website_add_to_allowlist">ホワイトリストに追加する</string>
-    <string name="assistant_website_recent_activity">最新アクティビティ</string>
+    <string name="assistant_website_recent_activity">最新のアクティビティ</string>
     <string name="assistant_website_remove_from_allowlist">ホワイトリストから削除する</string>
     <string name="assistant_website_statistics">ウェブサイト統計</string>
     <string name="assistant_website_summary_blocked">%s前にブロックされました</string>
@@ -354,7 +354,7 @@
     <string name="automation_toast_message_outbound_proxy_removed">プロキシサーバーが削除されました。</string>
     <string name="automation_toast_message_protection_starting">保護を有効化中…</string>
     <string name="automation_toast_message_protection_stopping">保護を無効化中…</string>
-    <string name="automation_toast_message_update_check_was_performed">アップデートは利用可能です。</string>
+    <string name="automation_toast_message_update_check_was_performed">アップデートが利用可能です。</string>
     <string name="automation_toast_message_wrong_password">オートメーションパスワードを確認し、再試行してください</string>
     <string name="available_in_the_full_version">製品版で利用可能</string>
     <string name="available_in_the_full_version_with_navigation_to_promo">&lt;font color=\"%1$s\">&lt;a href=%2$s>製品版&lt;/a>&lt;/font>で利用可能です。</string>
@@ -375,7 +375,7 @@
     <string name="battery_usage_recent_usage_title">アクティビティの内訳</string>
     <string name="battery_usage_recent_usage_wifi_data_summary">AdGuardのアップデートやフィルタ更新、ウェブサイトの安全性チェック</string>
     <string name="battery_usage_recent_usage_wifi_data_title">Wi-Fiデータ使用量</string>
-    <string name="battery_usage_summary">AdGuard はアプリの通信をフィルタリングしますので、デバイスの設定ではそれらのアプリのバッテリー使用量の分もAdGuardに起因しているかのように誤って表示されることがあります。以下は、AdGuardのみの実際のバッテリー使用量情報でございます。</string>
+    <string name="battery_usage_summary">AdGuard はアプリの通信をフィルタリングしますので、デバイスの設定ではフィルタリング対象アプリのバッテリー使用量もAdGuardのものとして表示されることがあります。以下は、AdGuardの実際の電力使用量です。</string>
     <string name="battery_usage_title">バッテリーの使用状況</string>
     <string name="bottomsheet_action_collapse">ボトムシートを閉じる</string>
     <string name="bottomsheet_action_expand">ボトムシートを開く</string>
@@ -399,13 +399,13 @@
     <string name="color_theme_dark">ダーク</string>
     <string name="color_theme_light">ライト</string>
     <string name="color_theme_system_default">システム</string>
-    <string name="color_theme_system_default_description">デバイス全体の設定に応じて、ダークまたはライト</string>
+    <string name="color_theme_system_default_description">デバイス全体の設定に応じて、ダークモードとライトモードを変更します。</string>
     <string name="color_theme_system_dynamic">システム(ダイナミック)</string>
     <string name="color_theme_system_dynamic_description">設定されているカラーパレットに合わせる</string>
     <string name="color_theme_title">テーマ</string>
     <string name="company_statistics_domains_placeholder">ドメインがありません</string>
     <string name="company_statistics_domains_subtitle">ドメイン</string>
-    <string name="company_statistics_see_all_domains">すべてのドメインを見る</string>
+    <string name="company_statistics_see_all_domains">全てのドメインを見る</string>
     <string name="configure_updates_auto_update_filters_dialog_title">フィルタの自動更新</string>
     <string name="configure_updates_auto_update_period_hour">毎時</string>
     <string name="configure_updates_auto_update_period_one_day">毎日</string>
@@ -467,7 +467,7 @@
     <string name="dns_user_rules_transitive_snack_message_manual_proxy_enabled">「&lt;b>ユーザールール&lt;/b>」を有効にするには、別のルーティングモードを使用してください。</string>
     <string name="dns_user_rules_transitive_snack_message_private_dns_enabled">「&lt;b>ユーザールール&lt;/b>」を有効にするには、デバイスの設定で「プライベートDNS」を無効にしてください。</string>
     <string name="dns_user_rules_transitive_warning_dns_filtering_disabled">「DNSフィルタ」が無効のため、この設定は適用されていません</string>
-    <string name="domain_statistics_see_all_subdomains">すべてのサブドメインを見る</string>
+    <string name="domain_statistics_see_all_subdomains">全てのサブドメインを見る</string>
     <string name="domain_statistics_subdomains_placeholder">サブドメインがありません</string>
     <string name="error_icon_content_description">エラー</string>
     <string name="error_open_system_settings">設定を開けませんでした</string>
@@ -500,7 +500,7 @@
     <string name="filter_details_trusted_switch_title">信頼するフィルタ</string>
     <string name="filter_details_url">ソース</string>
     <string name="filter_group_dialog_reset_to_default_button_title">初期化</string>
-    <string name="filter_group_dialog_reset_to_defaults_message">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="filter_group_dialog_reset_to_defaults_message">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="filter_group_dialog_reset_to_defaults_title">デフォルトにリセットしますか？</string>
     <string name="filter_group_snack_filter_removed">カスタムフィルタが削除されました。</string>
     <string name="filter_group_transitive_note_ad_blocking_protection">「広告ブロック」機能が無効になっているため、これらの設定は適用されていません</string>
@@ -533,7 +533,7 @@
     <string name="filters_dialog_new_title">フィルタ名を指定</string>
     <string name="filters_dialog_permission_denied_snack_message">カスタムフィルタをインポートするには、AdGuard にデバイスストレージへのアクセスを許可してください。</string>
     <string name="filters_dialog_reset_to_default_button">初期化</string>
-    <string name="filters_dialog_reset_to_default_subtitle">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="filters_dialog_reset_to_default_subtitle">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="filters_dialog_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="filters_dialog_title">カスタムフィルタを追加する</string>
     <string name="filters_dialog_trusted_switch_summary">「信頼するフィルタ」は強力なルール修飾子を使用できます。チェックを入れる際は、信頼できる開発者からのフィルタを使用してください。</string>
@@ -575,10 +575,10 @@
     <string name="firewall_app_rules_button_add">アプリを追加する</string>
     <string name="firewall_app_rules_dialog_add_message">ファイアウォールルールを設定するアプリを選択してください。</string>
     <string name="firewall_app_rules_list_subtitle">カスタムルールがあるアプリ</string>
-    <string name="firewall_app_rules_menu_remove_all">全部削除する</string>
+    <string name="firewall_app_rules_menu_remove_all">全て削除する</string>
     <string name="firewall_app_rules_menu_remove_all_dialog_button">クリア</string>
-    <string name="firewall_app_rules_menu_remove_all_dialog_summary">カスタムファイアウォールルールはすべて削除されます。アプリの接続は、グローバルファイアウォールルールに基づいて管理されます。</string>
-    <string name="firewall_app_rules_menu_remove_all_dialog_title">全部削除しますか？</string>
+    <string name="firewall_app_rules_menu_remove_all_dialog_summary">カスタムファイアウォールルールは全て削除されます。アプリの接続は、グローバルファイアウォールルールに基づいて管理されます。</string>
+    <string name="firewall_app_rules_menu_remove_all_dialog_title">全て削除しますか？</string>
     <string name="firewall_app_rules_nothing_to_change_snack">変更できる項目がありません</string>
     <string name="firewall_app_rules_snack_rule_removed">カスタムルールが削除されました。</string>
     <string name="firewall_app_rules_summary">特定のアプリのインターネットアクセスを管理できるようにします。これらのルールは、グローバルルールより優先されます。</string>
@@ -645,8 +645,8 @@
     <string name="firewall_global_rules_summary_2" formatted="false">ブロック中: %sと%s</string>
     <string name="firewall_global_rules_summary_3" formatted="false">ブロック中: %s, %s,%s</string>
     <string name="firewall_global_rules_summary_4" formatted="false">ブロック中: %s, %s, %s, %s</string>
-    <string name="firewall_global_rules_summary_all_allowed">すべての接続を許可</string>
-    <string name="firewall_global_rules_summary_all_blocked">すべての接続がブロックされています</string>
+    <string name="firewall_global_rules_summary_all_allowed">全ての接続を許可</string>
+    <string name="firewall_global_rules_summary_all_blocked">全ての接続がブロックされています</string>
     <string name="firewall_global_rules_summary_not_available">グローバルファイアウォールルールは無効になっています</string>
     <string name="firewall_global_rules_transitive_snack_message">「<b>グローバルファイアウォールルール</b>」を有効にするには、「<b>ファイアウォール</b>」を有効にしてください。</string>
     <string name="firewall_global_rules_wifi">Wi-Fi通信</string>
@@ -697,10 +697,10 @@
     <string name="firewall_quick_actions_menu_app_firewall_rules">このアプリのファイアウォールルール</string>
     <string name="firewall_quick_actions_menu_app_management">アプリの管理</string>
     <string name="firewall_quick_actions_menu_app_mute_notification">通知をミュートする</string>
-    <string name="firewall_quick_actions_menu_app_recent_activity">このアプリの最新アクティビティ</string>
+    <string name="firewall_quick_actions_menu_app_recent_activity">このアプリの最新のアクティビティ</string>
     <string name="firewall_quick_actions_menu_app_unmute_notification">通知のミュートを解除</string>
-    <string name="firewall_quick_actions_menu_clear_all">全部削除する</string>
-    <string name="firewall_quick_actions_menu_show_all">すべて表示</string>
+    <string name="firewall_quick_actions_menu_clear_all">全て削除する</string>
+    <string name="firewall_quick_actions_menu_show_all">全て表示</string>
     <string name="firewall_quick_actions_menu_show_allowed">許可されているもののみ表示</string>
     <string name="firewall_quick_actions_menu_show_blocked">ブロックされているもののみ表示</string>
     <string name="firewall_quick_actions_minute_ago">%d分前</string>
@@ -835,7 +835,7 @@
     <string name="https_activation_why_secure_button_why">AdGuardを信頼できる理由</string>
     <string name="https_activation_why_secure_summary">"AdGuard は、デバイス上でローカルにHTTPS通信をフィルタリングします。広告やトラッカーは、お使いのブラウザやアプリに読み込まれる前に除去されます。
 
-ウェブサーバーへの接続はすべて常に暗号化された状態のままになります。AdGuard はウェブサーバーを検証し、接続の安全性を確保します。"</string>
+ウェブサーバーへの接続は全て常に暗号化された状態のままになります。AdGuard はウェブサーバーを検証し、接続の安全性を確保します。"</string>
     <string name="https_activation_why_secure_title">AdGuardによるHTTPS フィルタリングは完全に安全です。</string>
     <string name="https_activation_why_trust_adguard_app_rating">アプリの平均評価</string>
     <string name="https_activation_why_trust_adguard_app_rating_score">4.9/5</string>
@@ -852,9 +852,9 @@
     <string name="https_filtering_exclusions_dialog_input_error">このドメインは既に追加されています</string>
     <string name="https_filtering_exclusions_dialog_input_error_invalid_url">このドメインは存在しません</string>
     <string name="https_filtering_exclusions_dialog_reset_to_default_button">初期化</string>
-    <string name="https_filtering_exclusions_dialog_reset_to_default_description">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="https_filtering_exclusions_dialog_reset_to_default_description">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="https_filtering_exclusions_dialog_reset_to_default_title">デフォルトにリセットしますか？</string>
-    <string name="https_filtering_exclusions_included_title">すべてのサブドメイン</string>
+    <string name="https_filtering_exclusions_included_title">全てのサブドメイン</string>
     <string name="https_filtering_exclusions_new_dialog_button_add">追加する</string>
     <string name="https_filtering_exclusions_new_dialog_button_remove">削除</string>
     <string name="https_filtering_exclusions_new_dialog_button_save">保存</string>
@@ -873,7 +873,7 @@
     <string name="https_filtering_exclusions_transitive_snack_message">「&lt;b>フィルタリング対象外ウェブサイト&lt;/b>」を有効にするには、「&lt;b>HTTPSフィルタリング&lt;/b>」を有効にしてください。</string>
     <string name="https_filtering_filtered_apps_dialog_reset_for_all">設定がデフォルトにリセットされました。</string>
     <string name="https_filtering_filtered_apps_dialog_reset_title">デフォルトにリセットしますか？</string>
-    <string name="https_filtering_filtered_apps_dialog_reset_to_default_description">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="https_filtering_filtered_apps_dialog_reset_to_default_description">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="https_filtering_filtered_apps_disable_all_dialog_snack">全アプリに対してHTTPSフィルタリングを停止しました。</string>
     <string name="https_filtering_filtered_apps_enable_all_dialog_act_1_button_all">全アプリをフィルタリングする</string>
     <string name="https_filtering_filtered_apps_enable_all_dialog_act_1_button_reset">初期化</string>
@@ -884,7 +884,7 @@
     <string name="https_filtering_filtered_apps_enable_all_dialog_act_2_button_back">戻る</string>
     <string name="https_filtering_filtered_apps_enable_all_dialog_act_2_summary">HTTPSフィルタリングは、以下のアプリに干渉する可能性があります。</string>
     <string name="https_filtering_filtered_apps_enable_all_dialog_act_2_title">一部のアプリが正しく動作しない可能性あり</string>
-    <string name="https_filtering_filtered_apps_enabled_for_all_apps">HTTPS通信は、すべての アプリでフィルタリングされています。一部のアプリは正しく動作しない場合があります。</string>
+    <string name="https_filtering_filtered_apps_enabled_for_all_apps">HTTPS通信は、全ての アプリでフィルタリングされています。一部のアプリは正しく動作しない場合があります。</string>
     <string name="https_filtering_filtered_apps_enabled_for_problem_free_apps">問題なしアプリでHTTPS通信はフィルタリングされています。</string>
     <string name="https_filtering_filtered_apps_info">HTTPSフィルタリングされているアプリ情報</string>
     <string name="https_filtering_filtered_apps_option_app_management">アプリの管理</string>
@@ -1004,7 +1004,7 @@
     <string name="menu_settings_talkback">設定</string>
     <string name="menu_statistics_talkback">統計</string>
     <string name="migration__splash_positive_button_title">OK</string>
-    <string name="migration_splash_error_summary">新しいアプリの準備ができましたが、設定を新バージョンに移行できませんでした。&lt;br/>&lt;font color=\"%s\">恐れ入りますが、設定はすべてデフォルトにリセットされました。&lt;/font></string>
+    <string name="migration_splash_error_summary">新しいアプリの準備ができましたが、設定を新バージョンに移行できませんでした。&lt;br/>&lt;font color=\"%s\">恐れ入りますが、設定は全てデフォルトにリセットされました。&lt;/font></string>
     <string name="migration_splash_error_title">設定を移行できませんでした</string>
     <string name="migration_splash_processing_summary">アプリの新バージョンを準備中です。念のため、アプリは開いたままにしておいてください。</string>
     <string name="migration_splash_processing_title">AdGuard を設定中…</string>
@@ -1134,7 +1134,7 @@
     <string name="permissions_for_auto_update_failed_open_settings_snack_message">設定を開けませんでした。手動で設定をアクセスしてみてください</string>
     <string name="permissions_for_auto_update_filters_read_instructions">手順を見る</string>
     <string name="permissions_for_auto_update_message">自動更新エラーを避けるため、以下の権限を付与しておいてください。</string>
-    <string name="permissions_for_auto_update_success_message">"すべての権限が付与されました。
+    <string name="permissions_for_auto_update_success_message">"全ての権限が付与されました。
 これで、自動更新はシームレスに行われるはずです。"</string>
     <string name="permissions_for_auto_update_title">フィルター自動更新の権限</string>
     <string name="port_edit_text">よく使われるポート番号: 8080, 8123, 9050</string>
@@ -1180,7 +1180,7 @@
     <string name="preferences_advanced_settings_watchdog_title">ウォッチドッグ(Watchdog)</string>
     <string name="preferences_app_details_ad_blocking_summary">暗号化されていない通信で広告やトラッキングをブロックします。</string>
     <string name="preferences_app_details_ad_blocking_title">通信をフィルタリングする</string>
-    <string name="preferences_app_details_dialog_reset_message">このアプリまたはアプリグループに対する設定はすべてデフォルトに戻されます。</string>
+    <string name="preferences_app_details_dialog_reset_message">このアプリまたはアプリグループに対する設定は全てデフォルトに戻されます。</string>
     <string name="preferences_app_details_dialog_reset_negative_button_title">初期化</string>
     <string name="preferences_app_details_dialog_reset_title">デフォルトにリセットしますか？</string>
     <string name="preferences_app_details_firewall_summary">このアプリのインターネットアクセス設定</string>
@@ -1209,8 +1209,8 @@
     <string name="preferences_app_settings_extensions_dialog_name_exists_title">この名称のユーザースクリプトはすでに存在しています。</string>
     <string name="preferences_app_settings_extensions_dialog_permission_denied_snack_message">ユーザースクリプトをインポートするには、AdGuard にデバイスストレージへのアクセスを許可してください。</string>
     <string name="preferences_app_settings_extensions_dialog_reset_to_default_button">初期化</string>
-    <string name="preferences_app_settings_extensions_dialog_reset_to_default_summary">このセクションの設定は、すべて初期値にリセットされます。</string>
-    <string name="preferences_app_settings_extensions_dialog_reset_to_default_summary_customization_note">このセクションの設定はすべてデフォルト値にリセットされます。&lt;br/>&lt;br/>&lt;font color=\"%1$s\">これらのカスタマイズは削除されます: %2$s&lt;/font></string>
+    <string name="preferences_app_settings_extensions_dialog_reset_to_default_summary">このセクションの設定は、全て初期値にリセットされます。</string>
+    <string name="preferences_app_settings_extensions_dialog_reset_to_default_summary_customization_note">このセクションの設定は全てデフォルト値にリセットされます。&lt;br/>&lt;br/>&lt;font color=\"%1$s\">これらのカスタマイズは削除されます: %2$s&lt;/font></string>
     <string name="preferences_app_settings_extensions_dialog_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="preferences_app_settings_extensions_dialog_summary">※ユーザースクリプトは、あなたのデバイスデータにアクセスすることができます。&lt;br/>&lt;br/>&lt;font color=\"%s\">信頼できる開発者からのユーザースクリプト以外は使用しないでください。&lt;/font></string>
     <string name="preferences_app_settings_extensions_dialog_summary_fallback">※ユーザースクリプトは、あなたのデバイスデータにアクセスすることができます。信頼できる開発者からのユーザースクリプト以外は使用しないでください。</string>
@@ -1228,12 +1228,12 @@
     <string name="preferences_apps_management_dialog_reset_all_dialog_act_1_https">HTTPSフィルタリングをリセットする</string>
     <string name="preferences_apps_management_dialog_reset_all_dialog_act_1_proxy">プロキシをリセットする</string>
     <string name="preferences_apps_management_dialog_reset_all_dialog_act_1_routing">ルーティングをリセットする</string>
-    <string name="preferences_apps_management_dialog_reset_message">これらのアプリまたはアプリグループの設定はすべてデフォルトに戻されます。問題なしアプリと新しいアプリはフィルタリングされます。</string>
+    <string name="preferences_apps_management_dialog_reset_message">これらのアプリまたはアプリグループの設定は全てデフォルトに戻されます。問題なしアプリと新しいアプリはフィルタリングされます。</string>
     <string name="preferences_apps_management_dialog_reset_negative_button_title">初期化</string>
     <string name="preferences_apps_management_disable_all_dialog_button">停止する</string>
     <string name="preferences_apps_management_disable_all_dialog_snack">全アプリに対してルーティングを停止しました。</string>
     <string name="preferences_apps_management_disable_all_dialog_summary">AdGuardは、これらのアプリで広告やトラッカーをブロックすることができなくなります。</string>
-    <string name="preferences_apps_management_disable_all_dialog_title">すべてのルーティングを停止しますか？</string>
+    <string name="preferences_apps_management_disable_all_dialog_title">全てのルーティングを停止しますか？</string>
     <string name="preferences_apps_management_enable_all_dialog_act_1_all_title">全アプリをフィルタリングしますか？</string>
     <string name="preferences_apps_management_enable_all_dialog_act_1_button_all">全アプリをルーティングする</string>
     <string name="preferences_apps_management_enable_all_dialog_act_1_button_safely">問題なしアプリをルーティングする</string>
@@ -1257,13 +1257,13 @@
     <string name="preferences_apps_management_note_free_version">全アプリで広告とトラッキングをブロックするには、&lt;font color=\"%1$s\">&lt;a href=%2$s>製品版を購入する&lt;/a>&lt;/font>必要があります。</string>
     <string name="preferences_apps_management_option_disable_filter_for_all">全アプリでフィルタリングを停止する</string>
     <string name="preferences_apps_management_option_disable_for_all">全アプリに対してルーティングを停止</string>
-    <string name="preferences_apps_management_option_disable_for_all_title">すべてのフィルタリングを停止しますか？</string>
+    <string name="preferences_apps_management_option_disable_for_all_title">全てのフィルタリングを停止しますか？</string>
     <string name="preferences_apps_management_option_enable_for_all">AdGuard経由で全アプリをルーティング</string>
     <string name="preferences_apps_management_option_reset_to_default">デフォルトにリセット</string>
     <string name="preferences_apps_management_option_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="preferences_apps_management_options_filter_all_button_all">全アプリをフィルタリングする</string>
     <string name="preferences_apps_management_search_placeholder_text">何も見つかりません</string>
-    <string name="preferences_apps_management_snack_enabled_for_all_apps">フィルタリングはすべてのアプリで有効です。一部のアプリは正しく動作しない可能性があります。</string>
+    <string name="preferences_apps_management_snack_enabled_for_all_apps">フィルタリングは全てのアプリで有効です。一部のアプリは正しく動作しない可能性があります。</string>
     <string name="preferences_apps_management_snack_enabled_for_problem_free_apps">問題なしアプリに対してフィルタリングが有効になりました。</string>
     <string name="preferences_apps_management_snack_reset_to_default">設定がデフォルトにリセットされました。</string>
     <string name="preferences_apps_management_snack_stopped_for_all">全アプリに対してフィルタリングを停止しました。</string>
@@ -1346,7 +1346,7 @@
     <string name="preferences_edit_proxy_tor_proxy_name">Orbot経由のTor</string>
     <string name="preferences_export_settings">設定をエクスポート</string>
     <string name="preferences_export_settings_dialog_button_export">エクスポート</string>
-    <string name="preferences_export_settings_dialog_category_protection_warning_note">これらの設定を全部エクスポートするには、「フィルタ」にチェックを入れる必要があります。</string>
+    <string name="preferences_export_settings_dialog_category_protection_warning_note">これらの設定を全てエクスポートするには、「フィルタ」にチェックを入れる必要があります。</string>
     <string name="preferences_export_settings_dialog_export_unable_to_compress_message">&lt;font color=\"%1$s\">データの圧縮に失敗しました。&lt;/font>&lt;br/>再度お試しいただくか、 &lt;a href=%2$s>サポート&lt;/a>までご連絡ください。</string>
     <string name="preferences_export_settings_dialog_export_unable_to_compress_title">設定のエクスポートが失敗しました</string>
     <string name="preferences_export_settings_dialog_exported_successfully_act_message">設定は正常に %s へエクスポートされました。</string>
@@ -1365,7 +1365,7 @@
     <string name="preferences_filtering_settings_reset_to_default_dialog_custom_proxy">プロキシ</string>
     <string name="preferences_filtering_settings_reset_to_default_dialog_custom_userscripts">ユーザースクリプト</string>
     <string name="preferences_filtering_settings_reset_to_default_dialog_customizations_to_be_removed">これらのカスタマイズは削除されます: %s</string>
-    <string name="preferences_filtering_settings_reset_to_default_message">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="preferences_filtering_settings_reset_to_default_message">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="preferences_filtering_settings_reset_to_default_snack">設定がデフォルトにリセットされました。</string>
     <string name="preferences_filtering_settings_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="preferences_filtering_settings_summary_apps_management">アプリのフィルタリング、トラフィックルーティング、アプリの管理</string>
@@ -1449,7 +1449,7 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_import_settings_dialog_ca_installation_act_message">HTTPSフィルタリングの設定をインポートするには、CA証明書を端末にインストールしてください。</string>
     <string name="preferences_import_settings_dialog_ca_installation_act_title">AdGuard 証明書をインストール</string>
     <string name="preferences_import_settings_dialog_categories_act_title">設定をインポート…</string>
-    <string name="preferences_import_settings_dialog_category_protection_warning_note">これらの設定を全部インポートするには、「フィルタ」にチェックを入れる必要があります。</string>
+    <string name="preferences_import_settings_dialog_category_protection_warning_note">これらの設定を全てインポートするには、「フィルタ」にチェックを入れる必要があります。</string>
     <string name="preferences_import_settings_dialog_https_activated_act_message">クリーンで安全なインターネットをお楽しみください。</string>
     <string name="preferences_import_settings_dialog_https_activated_act_title">HTTPSフィルタリングが有効です</string>
     <string name="preferences_import_settings_dialog_https_failed_act_message">HTTPS フィルタリングが無効になります</string>
@@ -1529,9 +1529,9 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_dns_cache_size_title">DNSキャッシュサイズ</string>
     <string name="preferences_low_level_settings_dns_detect_search_domains_description">DNS検索ドメインをフォールバックアップストリーム(利用可能な場合)に自動的にリダイレクトします。</string>
     <string name="preferences_low_level_settings_dns_detect_search_domains_title">検索ドメインを検出する</string>
-    <string name="preferences_low_level_settings_dns_enable_fallback_for_non_fallback_domains_description">すべてのドメイン(非フォールバックを含む)に対してフォールバックアップストリームを使用します。</string>
+    <string name="preferences_low_level_settings_dns_enable_fallback_for_non_fallback_domains_description">全てのドメイン(非フォールバックを含む)に対してフォールバックアップストリームを使用します。</string>
     <string name="preferences_low_level_settings_dns_enable_fallback_for_non_fallback_domains_title">全ドメインにフォールバックを使用する</string>
-    <string name="preferences_low_level_settings_dns_enable_servfail_response_on_upstream_failure_description">フォールバックを含むすべてのアップストリームが応答失敗した場合、クライアントにSERVFAIL応答を送信します。この設定が無効の場合、クライアントに応答は送信されません。</string>
+    <string name="preferences_low_level_settings_dns_enable_servfail_response_on_upstream_failure_description">フォールバックを含む全てのアップストリームが応答失敗した場合、クライアントにSERVFAIL応答を送信します。この設定が無効の場合、クライアントに応答は送信されません。</string>
     <string name="preferences_low_level_settings_dns_enable_servfail_response_on_upstream_failure_title">SERVFAIL failure response</string>
     <string name="preferences_low_level_settings_dns_enable_upstreams_validation_description">カスタムDNSサーバーを追加または更新する前に、DNSアップストリームをテストします。</string>
     <string name="preferences_low_level_settings_dns_enable_upstreams_validation_title">DNSのアップストリームを検証する</string>
@@ -1585,7 +1585,7 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_http3_filtering_enabled_title">HTTP/3 をフィルタリングする</string>
     <string name="preferences_low_level_settings_https_cert_not_installed">AdGuardの証明書がインストールされていないため、この設定は適用されていません</string>
     <string name="preferences_low_level_settings_https_filtering_disabled">HTTPSフィルタリングが無効のため、この設定は適用されていません</string>
-    <string name="preferences_low_level_settings_https_har_capture_description">フィルタリングされたすべてのHTTPリクエストをHAR 1.2形式で、アプリキャッシュディレクトリ内のharサブディレクトリにログ出力します。Fiddlerで解析できます。</string>
+    <string name="preferences_low_level_settings_https_har_capture_description">フィルタリングされた全てのHTTPリクエストをHAR 1.2形式で、アプリキャッシュディレクトリ内のharサブディレクトリにログ出力します。Fiddlerで解析できます。</string>
     <string name="preferences_low_level_settings_https_har_capture_note">※お使いの端末の動作が遅くなる場合があります。デバッグ用に限って使用してください。</string>
     <string name="preferences_low_level_settings_https_har_capture_title">HAR をキャプチャする</string>
     <string name="preferences_low_level_settings_include_gateway_summary">Wi-Fiを利用している場合、VPNルートにゲートウェイIPアドレスが追加されます。</string>
@@ -1595,7 +1595,7 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_ipv4_excluded_routes_description">これらのIP範囲に対してフィルタリングは無効になります。</string>
     <string name="preferences_low_level_settings_ipv4_excluded_routes_title">フィルタリング対象外IPv4範囲のリスト</string>
     <string name="preferences_low_level_settings_ipv4_force_complex_description">単純なネットワークでは、可能な限りLAN接続をフィルタリングから除外します。複雑なネットワークに対して機能しない場合があります。</string>
-    <string name="preferences_low_level_settings_ipv4_force_complex_title">すべてのLANのIPv4接続をルーティングする</string>
+    <string name="preferences_low_level_settings_ipv4_force_complex_title">全てのLANのIPv4接続をルーティングする</string>
     <string name="preferences_low_level_settings_ipv4_force_default_description">全てのLANコネクションをフィルタリングします。</string>
     <string name="preferences_low_level_settings_ipv4_force_default_title">LAN IPv4を強制的にルーティングする</string>
     <string name="preferences_low_level_settings_ipv6_address_message">TUNインターフェースの作成に使用するIPアドレス</string>
@@ -1625,7 +1625,7 @@ Idle time: %d s
     <string name="preferences_low_level_settings_reconfigure_proxy_on_network_change_description">デバイスが他のネットワークに接続した場合、自動プロキシパラメーターを再設定するため、AdGuardによる保護を再起動します。</string>
     <string name="preferences_low_level_settings_reconfigure_proxy_on_network_change_title">ネットワーク変更時に自動プロキシを再設定する</string>
     <string name="preferences_low_level_settings_reconfigure_proxy_on_network_change_transitive_note_wrong_routing_mode">VPNもしくは手動プロキシが使われているため、この設定は適用されていません</string>
-    <string name="preferences_low_level_settings_removed_html_log_description">ブロックされたHTML要素に関する情報を「最新アクティビティ」に記録します。</string>
+    <string name="preferences_low_level_settings_removed_html_log_description">ブロックされたHTML要素に関する情報を「最新のアクティビティ」に記録します。</string>
     <string name="preferences_low_level_settings_removed_html_log_title">「HTMLが削除された」イベントをログに記録する</string>
     <string name="preferences_low_level_settings_title_dns_filtering">DNS通信を保護</string>
     <string name="preferences_low_level_settings_title_filtering">フィルタリング</string>
@@ -1657,16 +1657,16 @@ Idle time: %d s
     <string name="preferences_network_settings_title_routing_mode">ルーティングモード</string>
     <string name="preferences_proxy_apps">プロキシ経由で動作するアプリ</string>
     <string name="preferences_proxy_apps_dialog_disable_for_all_button">無効にする</string>
-    <string name="preferences_proxy_apps_dialog_disable_for_all_summary">すべてのアプリが、指定されたプロキシサーバー経由でルーティングされなくなります。</string>
+    <string name="preferences_proxy_apps_dialog_disable_for_all_summary">全てのアプリが、指定されたプロキシサーバー経由でルーティングされなくなります。</string>
     <string name="preferences_proxy_apps_dialog_disable_for_all_title">全アプリに対してプロキシを無効にしますか？</string>
     <string name="preferences_proxy_apps_dialog_enable_for_all_button">ルート</string>
-    <string name="preferences_proxy_apps_dialog_enable_for_all_summary">反町にインストールされているすべてのアプリが、指定したプロキシサーバー経由でルーティングされります。</string>
+    <string name="preferences_proxy_apps_dialog_enable_for_all_summary">反町にインストールされている全てのアプリが、指定したプロキシサーバー経由でルーティングされります。</string>
     <string name="preferences_proxy_apps_dialog_enable_for_all_title">プロキシ経由で全アプリをルーティングしますか？</string>
     <string name="preferences_proxy_apps_dialog_reset_for_all_button">初期化</string>
-    <string name="preferences_proxy_apps_dialog_reset_to_default_summary">これらのアプリの設定はすべてデフォルトに戻されます。問題なしアプリは、フィルタリングされます。</string>
+    <string name="preferences_proxy_apps_dialog_reset_to_default_summary">これらのアプリの設定は全てデフォルトに戻されます。問題なしアプリは、フィルタリングされます。</string>
     <string name="preferences_proxy_apps_dialog_reset_to_default_title">デフォルトにリセットしますか？</string>
     <string name="preferences_proxy_apps_menu_disable_for_all">全アプリに対してプロキシを無効にする</string>
-    <string name="preferences_proxy_apps_menu_enable_for_all">すべてのアプリでプロキシルーチングを有効にする</string>
+    <string name="preferences_proxy_apps_menu_enable_for_all">全てのアプリでプロキシルーチングを有効にする</string>
     <string name="preferences_proxy_apps_menu_reset_to_default">デフォルトにリセット</string>
     <string name="preferences_proxy_apps_snack_disable_for_all">全アプリのプロキシ経由ルーティングが無効になりました。</string>
     <string name="preferences_proxy_apps_snack_enable_for_all">全アプリがプロキシ経由でルーティングされるようになりました。</string>
@@ -1954,7 +1954,7 @@ Idle time: %d s
     <string name="protection_dns_reset_to_default_dialog_custom_filters">カスタムフィルタ</string>
     <string name="protection_dns_reset_to_default_dialog_custom_servers">カスタムサーバー</string>
     <string name="protection_dns_reset_to_default_dialog_customizations_to_be_removed">これらのカスタマイズは削除されます: %s</string>
-    <string name="protection_dns_reset_to_default_dialog_message">このセクションの設定は、すべて初期値にリセットされます。</string>
+    <string name="protection_dns_reset_to_default_dialog_message">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="protection_dns_reset_to_default_dialog_reset_button">初期化</string>
     <string name="protection_dns_reset_to_default_dialog_title">デフォルトにリセットしますか？</string>
     <string name="protection_dns_reset_to_default_dialog_user_rules">ユーザーフィルタ</string>
@@ -2039,10 +2039,10 @@ Idle time: %d s
     <string name="protection_tracking_protection_info">トラッキング防止情報</string>
     <string name="protection_youtube_title">YouTubeアプリの広告をブロックする方法</string>
     <string name="recent_activity_feature_discovery">タップすると、詳細を表示したり、フィルタリングルールを追加したりできます</string>
-    <string name="recent_activity_menu_clear">最新アクティビティをクリアする</string>
+    <string name="recent_activity_menu_clear">最新のアクティビティをクリアする</string>
     <string name="recent_activity_menu_clear_dialog_button">クリア</string>
     <string name="recent_activity_menu_clear_dialog_summary">最終の10,000リクエストに関する情報が削除されます。</string>
-    <string name="recent_activity_menu_clear_dialog_title">最新アクティビティをクリアしますか？</string>
+    <string name="recent_activity_menu_clear_dialog_title">最新のアクティビティをクリアしますか？</string>
     <string name="recent_activity_menu_filter_request">カスタマイズ</string>
     <string name="recent_activity_subtitle">最終の1万リクエストに関する情報</string>
     <string name="recycler_search_not_found_placeholder_description">何も見つかりません</string>
@@ -2211,7 +2211,7 @@ Wi-Fi通信をブロック"</string>
     <string name="screen_developer_tools_item_logging_level_summary_prefix">現在: %s</string>
     <string name="screen_developer_tools_item_logging_level_title">ログ・レベル</string>
     <string name="screen_developer_tools_item_proxy_title">プロキシ</string>
-    <string name="screen_developer_tools_item_recent_activity_title">最新アクティビティ</string>
+    <string name="screen_developer_tools_item_recent_activity_title">最新のアクティビティ</string>
     <string name="screen_developer_tools_item_tracking_protection_title">トラッキング防止</string>
     <string name="screen_developer_tools_item_user_rules_title">ユーザーフィルタ</string>
     <string name="screen_developer_tools_item_userscripts_title">ユーザースクリプト</string>
@@ -2223,15 +2223,15 @@ Wi-Fi通信をブロック"</string>
     <string name="slow_down_notification_reason_pcap_capturing">パケットキャプチャ(Packet capture, PCAP)</string>
     <string name="slow_down_notification_text">%s によって遅くなっている場合があります。</string>
     <string name="slow_down_notification_title">AdGuardの動作が遅くなっている可能性があります</string>
-    <string name="statistics_all_applications">すべてのアプリを見る</string>
-    <string name="statistics_all_companies">すべての企業を見る</string>
+    <string name="statistics_all_applications">全てのアプリを見る</string>
+    <string name="statistics_all_companies">全ての企業を見る</string>
     <string name="statistics_applications_placeholder">統計はまだありません。AdGuard を利用し続けると、こちらで統計が表示されます。</string>
     <string name="statistics_companies_placeholder">統計はまだありません。AdGuard を利用し続けると、こちらで統計が表示されます。</string>
     <string name="statistics_data_downloaded">ダウンロード</string>
     <string name="statistics_data_saved">節約した通信量</string>
     <string name="statistics_data_uploaded">アップロード</string>
     <string name="statistics_dialog_clear_button">クリア</string>
-    <string name="statistics_dialog_clear_message">最新アクティビティやデータ使用状況に関する統計情報から、すべてのリクエストが完全に削除されます。</string>
+    <string name="statistics_dialog_clear_message">最新のアクティビティやデータ使用状況に関する統計情報から、全てのリクエストが完全に削除されます。</string>
     <string name="statistics_dialog_clear_title">統計をクリア(初期化)しますか？</string>
     <string name="statistics_dialog_date_period">統計の期間</string>
     <string name="statistics_dialog_date_period_message">AdGuard は、選択された期間分の統計情報を表示します。</string>
@@ -2246,7 +2246,7 @@ Wi-Fi通信をブロック"</string>
     <string name="statistics_dns_data_blocked">ブロック済み数</string>
     <string name="statistics_dns_data_requests">リクエスト数</string>
     <string name="statistics_feature_discovery_show_more">タップして詳細を表示する</string>
-    <string name="statistics_log">最新アクティビティ</string>
+    <string name="statistics_log">最新のアクティビティ</string>
     <string name="statistics_menu_clear_statistics">統計をクリア</string>
     <string name="statistics_request_type_ads">広告削除数</string>
     <string name="statistics_request_type_requests">リクエスト数</string>
@@ -2279,7 +2279,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tracking_level_high_title">高め</string>
     <string name="tracking_level_standard_summary">トラッカー(個人情報追跡)や分析システムをブロックします。</string>
     <string name="tracking_level_standard_title">スタンダード</string>
-    <string name="tracking_level_ultimate_summary">すべてのCookieの有効期間を制限します。&lt;br/>&lt;font color=\"%s\">※一部のウェブサイトが壊れたり、正しく動作しなくなる可能性があります。&lt;/font></string>
+    <string name="tracking_level_ultimate_summary">全てのCookieの有効期間を制限します。&lt;br/>&lt;font color=\"%s\">※一部のウェブサイトが壊れたり、正しく動作しなくなる可能性があります。&lt;/font></string>
     <string name="tracking_level_ultimate_title">厳格</string>
     <string name="tracking_protection_block_location_api_summary">訪問するウェブサイトによるあなたの位置情報検出を防止します。</string>
     <string name="tracking_protection_block_location_api_title">ロケーションAPIをブロックする</string>
@@ -2615,7 +2615,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tv__screen_manage_license_text_status_free">無料版</string>
     <string name="tv__screen_manage_license_text_status_free_description">トラッキング防止、ブラウジング・セキュリティ、カスタムフィルター、ブラウザ以外のアプリでの広告ブロックは無料版ではご利用いただけません。</string>
     <string name="tv__screen_manage_license_text_status_paid">ライセンス</string>
-    <string name="tv__screen_manage_license_text_status_personal">パーソナル版</string>
+    <string name="tv__screen_manage_license_text_status_personal">個人版</string>
     <string name="tv__screen_manage_license_text_status_trial">7日間無料お試し</string>
     <string name="tv__screen_manage_license_text_valid_until">有効期間: &lt;b>%1$sまで&lt;/b></string>
     <string name="tv__screen_manage_license_text_yearly_subscription">ご利用中のプラン: 1年版</string>
@@ -2844,14 +2844,14 @@ v%s アップデート内容"</string>
     <string name="user_filter_import_wrong_format_title">ファイルを読み取れませんでした</string>
     <string name="user_filter_info">ユーザールール情報</string>
     <string name="user_filter_menu_about_syntax">ルールの構文について</string>
-    <string name="user_filter_menu_clear_all">全部削除する</string>
-    <string name="user_filter_menu_dialog_button_clear_all">削除する</string>
-    <string name="user_filter_menu_dialog_button_disable_all">無効にする</string>
-    <string name="user_filter_menu_dialog_button_enable_all">有効にする</string>
-    <string name="user_filter_menu_dialog_summary_clear_all">すべてのユーザールールが完全に削除されます。</string>
-    <string name="user_filter_menu_dialog_summary_disable_all">すべてのユーザールールが無効になります。</string>
-    <string name="user_filter_menu_dialog_summary_enable_all">すべてのユーザールールが有効になります。</string>
-    <string name="user_filter_menu_dialog_title_clear_all">全部削除しますか？</string>
+    <string name="user_filter_menu_clear_all">全て削除する</string>
+    <string name="user_filter_menu_dialog_button_clear_all">全て削除する</string>
+    <string name="user_filter_menu_dialog_button_disable_all">全て無効にする</string>
+    <string name="user_filter_menu_dialog_button_enable_all">全て有効にする</string>
+    <string name="user_filter_menu_dialog_summary_clear_all">全てのユーザールールが完全に削除されます。</string>
+    <string name="user_filter_menu_dialog_summary_disable_all">全てのユーザールールが無効になります。</string>
+    <string name="user_filter_menu_dialog_summary_enable_all">全てのユーザールールが有効になります。</string>
+    <string name="user_filter_menu_dialog_title_clear_all">全て削除しますか？</string>
     <string name="user_filter_menu_dialog_title_disable_all">全て無効にしますか？</string>
     <string name="user_filter_menu_dialog_title_enable_all">全て有効にしますか？</string>
     <string name="user_filter_menu_disable_all">全て無効にする</string>
