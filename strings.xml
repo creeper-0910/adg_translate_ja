@@ -185,7 +185,7 @@
     <string name="adguard_vpn_integration_dialog_title_update_adguard_app">AdGuard VPNと併用するにはAdGuardをアップデートしてください。</string>
     <string name="adguard_vpn_integration_dialog_title_update_adguard_vpn_app">併用するには AdGuard VPN をアップデートしてください。</string>
     <string name="ads_protection_summary">ブラウザ、ゲーム、その他のアプリなどで、どこでも広告を削除</string>
-    <string name="ads_protection_title">ブラウザ&lt;font color=\"%s\">含む&lt;/font>&lt;br/>全てのアプリで&lt;br/>広告をブロック</string>
+    <string name="ads_protection_title">&lt;font color=\"%s\">全てのアプリ&lt;/font>で&lt;br/>広告をブロック</string>
     <string name="allow_list_add_an_exclusion">ウェブサイトを追加</string>
     <string name="allow_list_add_an_exclusion_message">AdGuardは、このWebサイトで広告・トラッカー(個人情報追跡)・迷惑要素をブロックしなくなります。</string>
     <string name="allow_list_dialog_description_edit">AdGuardは、このWebサイトで広告、トラッカー(個人情報追跡)、迷惑要素をブロックしないようになります。</string>
@@ -792,14 +792,14 @@
     <string name="home_summary_annoyances_enabling">「迷惑要素ブロック」を有効化中…</string>
     <string name="home_summary_dns_disabling">「DNS通信を保護」を無効化中…</string>
     <string name="home_summary_dns_enabling">「DNS通信を保護」を有効化中…</string>
-    <string name="home_summary_easter_egg_1">安全・快適にネット閲覧できます。</string>
-    <string name="home_summary_easter_egg_2">安全・快適にネット閲覧できます。</string>
-    <string name="home_summary_easter_egg_3">安全・快適にネット閲覧できます。</string>
-    <string name="home_summary_easter_egg_4">安全・快適にネット閲覧できます。</string>
+    <string name="home_summary_easter_egg_1">私達の斧は鋭い</string>
+    <string name="home_summary_easter_egg_2">私達は安全です</string>
+    <string name="home_summary_easter_egg_3">プライバシー、安全、敬意</string>
+    <string name="home_summary_easter_egg_4">v5.0はもうすぐです</string>
     <string name="home_summary_firewall_disabled">ファイアウォールは無効です。</string>
     <string name="home_summary_firewall_enabled">ファイアウォールが有効です。</string>
     <string name="home_summary_protection_disabled">広告と個人情報追跡はブロックされていません。</string>
-    <string name="home_summary_protection_enabled">安全・快適にネット閲覧できます。</string>
+    <string name="home_summary_protection_enabled">安全なネットサーフィン —私達にお任せください</string>
     <string name="home_summary_protection_enabled_when_trial_ended">無料お試しが終了しました。 &lt;font color=\"%2$s\">&lt;a href=%3$s>製品版を購入する&lt;/a>&lt;/font></string>
     <string name="home_summary_protection_restarting">変更を適用中です。少々お待ちください。</string>
     <string name="home_summary_protection_starting">少しお待ちください</string>
@@ -2573,7 +2573,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tv__screen_home_statistics_data_saved">節約した通信量</string>
     <string name="tv__screen_home_statistics_total_requests">リクエスト総数</string>
     <string name="tv__screen_home_statistics_trackers_blocked">追跡ブロック数</string>
-    <string name="tv__screen_home_summary_protection_enabled">安全・快適にインターネットを利用できます。</string>
+    <string name="tv__screen_home_summary_protection_enabled">安全なストリーミング —私達がお手伝いします</string>
     <string name="tv__screen_license_expired_buy_license">ライセンスを購入する</string>
     <string name="tv__screen_license_expired_log_out">ログアウト</string>
     <string name="tv__screen_license_expired_subtitle">ぜひ新ライセンスを手に入れてください!</string>
