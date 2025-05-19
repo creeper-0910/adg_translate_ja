@@ -60,9 +60,11 @@
     <string name="activated_license_summary">ライセンスが有効になりました。全ての機能をお楽しみください!ご質問などがありましたら、いつでもお問い合わせください。</string>
     <string name="activated_license_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をお見せします!</string>
     <string name="activated_trial_positive_button">よし</string>
-    <string name="activated_trial_summary">無料お試し版が有効になりました。全ての機能をお楽しみください!ご質問などがありましたら、いつでもご連絡ください。</string>
+    <string name="activated_trial_summary">無料試用版が有効になりました。全ての機能をお楽しみください!ご質問などがありましたら、いつでもご連絡ください。</string>
     <string name="activated_trial_title">AdGuard の&lt;font color=\"%s\">フルパワー&lt;/font>&lt;br/>をお見せします!</string>
     <string name="ad_blocking_allow_list_title">ウェブサイト・ホワイトリスト</string>
+    <string name="ad_blocking_disabled_snack_button">有効にする</string>
+    <string name="ad_blocking_disabled_snack_text">&lt;b>広告ブロック機能&lt;/b>が無効になっているため、この設定は適用されていません</string>
     <string name="ad_blocking_filtered_apps_dialog_disable_for_all_button_disable">停止する</string>
     <string name="ad_blocking_filtered_apps_dialog_disable_for_all_summary">これらのアプリのトラフィックはフィルタリングされなくなり、広告やトラッカーはブロックされなくなります。</string>
     <string name="ad_blocking_filtered_apps_dialog_reset_to_default_button_disable">初期化</string>
@@ -100,6 +102,7 @@
     <string name="ad_blocking_regional_lists_locale_fr">フランス語</string>
     <string name="ad_blocking_regional_lists_locale_he">ヘブライ語</string>
     <string name="ad_blocking_regional_lists_locale_hi">ヒンディー語</string>
+    <string name="ad_blocking_regional_lists_locale_hr">クロアチア語</string>
     <string name="ad_blocking_regional_lists_locale_hu">ハンガリー語</string>
     <string name="ad_blocking_regional_lists_locale_id">インドネシア語</string>
     <string name="ad_blocking_regional_lists_locale_is">アイスランド語</string>
@@ -118,6 +121,7 @@
     <string name="ad_blocking_regional_lists_locale_ro">ルーマニア語</string>
     <string name="ad_blocking_regional_lists_locale_ru">ロシア語</string>
     <string name="ad_blocking_regional_lists_locale_sk">スロバキア語</string>
+    <string name="ad_blocking_regional_lists_locale_sr">セルビア語</string>
     <string name="ad_blocking_regional_lists_locale_sv">スウェーデン語</string>
     <string name="ad_blocking_regional_lists_locale_tg">タジク語</string>
     <string name="ad_blocking_regional_lists_locale_th">タイ語</string>
@@ -145,7 +149,7 @@
     <string name="ad_blocking_title_basic_protection">基本的な保護</string>
     <string name="ad_blocking_title_language_specific">言語特化広告ブロック</string>
     <string name="ad_blocking_title_other_ad_blocking_filters">その他の広告ブロックフィルタ</string>
-    <string name="ad_blocking_user_rules_summary">ユーザーが手動で追加したルールと「最新のアクティビティ」経由で作成されたルールがこちらにあります。</string>
+    <string name="ad_blocking_user_rules_summary">ユーザーが手動で追加したルールと「最新のアクティビティ」経由で作成されたルールがここに表示されます。</string>
     <string name="ad_blocking_user_rules_title">ユーザーフィルタ</string>
     <string name="add_allow_rule_pattern_subtitle">許可されるべきもの</string>
     <string name="add_dns_user_rule_dialog_title_add">ユーザールールを追加</string>
@@ -212,6 +216,7 @@
     <string name="allow_list_switch_title">ウェブサイト・ホワイトリスト</string>
     <string name="allow_list_transitive_note">「広告ブロック」機能が無効になっているため、これらの設定は適用されません</string>
     <string name="allow_list_transitive_snack_action_title">有効にする</string>
+    <string name="allow_list_transitive_snack_action_title_buy_full_version">製品版を購入する</string>
     <string name="allow_list_transitive_snack_message">「&lt;b>ウェブサイト・ホワイトリスト&lt;/b>」を有効にするには、「&lt;b>広告ブロック&lt;/b>」を有効にしてください。</string>
     <string name="annoyance_blocking_consent_dialog_enable_dialog">有効にする</string>
     <string name="annoyance_blocking_consent_dialog_filter_policy_entity_text">AdGuard の迷惑要素フィルタがブロックするものの詳細については、&lt;a href=%s>フィルターポリシー&lt;/a>を参照してください。サードパーティのフィルタについては、各社のホームページをご覧ください。</string>
@@ -253,6 +258,7 @@
     <string name="apply_settings_category_browsing_security_title">ブラウジング・セキュリティを有効にする</string>
     <string name="apply_settings_category_custom_filters_title">カスタムフィルタ</string>
     <string name="apply_settings_category_default_filters_title">デフォルトのフィルター</string>
+    <string name="apply_settings_category_disable_youtube_feature">AdGuard プレイヤーを無効化</string>
     <string name="apply_settings_category_dns_filters_title">DNSフィルタ</string>
     <string name="apply_settings_category_dns_server_title">DNSサーバー</string>
     <string name="apply_settings_category_dns_user_rules_title">DNSユーザールール</string>
@@ -265,6 +271,7 @@
     <string name="apply_settings_category_subtitle_ad_blocking">広告ブロック</string>
     <string name="apply_settings_category_subtitle_apps">アプリ</string>
     <string name="apply_settings_category_subtitle_browsing_security">ブラウジング・セキュリティ</string>
+    <string name="apply_settings_category_subtitle_disable_youtube_feature">AdGuard プレイヤー</string>
     <string name="apply_settings_category_subtitle_dns">DNS</string>
     <string name="apply_settings_category_subtitle_license">ライセンス</string>
     <string name="apply_settings_category_subtitle_tracking_protection">トラッキング防止</string>
@@ -384,6 +391,13 @@
     <string name="bottomsheet_drag_handle_content_description">ドラッグ ハンドル</string>
     <string name="browsing_security_summary">ブラウジング・セキュリティは危険なウェブサイトやフィッシングサイトについて警告してくれます。</string>
     <string name="browsing_security_title">&lt;font color=\"%s\">セキュリティ&lt;/font>&lt;br/>を強化</string>
+    <string name="call_notification_answer_action">応答</string>
+    <string name="call_notification_answer_video_action">ビデオ通話</string>
+    <string name="call_notification_decline_action">拒否</string>
+    <string name="call_notification_hang_up_action">通話終了</string>
+    <string name="call_notification_incoming_text">着信</string>
+    <string name="call_notification_ongoing_text">通話中</string>
+    <string name="call_notification_screening_text">着信をスクリーニング中</string>
     <string name="call_to_buy_notification_four_message">👑 アプリ内広告ブロック、トラッキング防止、ブラウジングセキュリティ機能をアンロック。[タップして詳細を見る]</string>
     <string name="call_to_buy_notification_four_title">製品版の機能を、1年プランもしくは永久プランで利用</string>
     <string name="call_to_buy_notification_one_message">💻 📱 AdGuardをPC、iPhone、スマホ、タブレットで利用したり、大切な人と共有できます。[タップして詳細を見る]</string>
@@ -443,6 +457,9 @@
     <string name="conflict_case_notification_unsupported_browser_title">一部のブラウザをフィルタリングできません</string>
     <string name="copy">コピー</string>
     <string name="copy_toast_msg">リンクをクリップボードにコピーしました</string>
+    <string name="create_shortcuts_button">OK</string>
+    <string name="create_shortcuts_summary">ショートカットを使うことで、広告やトラッキングなしでお気に入りのウェブサイトを素早く開くことができます。ショートカットを作成する方法はこちら:&lt;br>&lt;br>1. サイトを開きます。&lt;br>2. 「⋮」をタップします。&lt;br>3. 「☆ &lt;b>ホーム画面に追加&lt;/b>」をタップします。</string>
+    <string name="create_shortcuts_title">ショートカットを作成する</string>
     <string name="custom_dns_server_edit_dialog_remove_server_message">「%1$s」というサーバーが削除されます。</string>
     <string name="custom_dns_server_edit_dialog_remove_server_negative_button">削除</string>
     <string name="custom_dns_server_edit_dialog_remove_server_title">DNSサーバーを削除しますか？</string>
@@ -474,43 +491,78 @@
     <string name="error_too_long">%d文字以内にしてください</string>
     <string name="expand_button_title">詳細設定</string>
     <string name="exposed_dropdown_menu_content_description">プルダウン メニューを表示</string>
+    <string name="extension_details_add">対象:</string>
+    <string name="extension_details_description">概要：</string>
     <string name="extension_details_dialog_delete_button">削除</string>
     <string name="extension_details_dialog_delete_message">「&lt;b>%s&lt;/b>」というユーザースクリプトが削除されます。</string>
     <string name="extension_details_dialog_delete_title">ユーザスクリプトを削除しますか？</string>
     <string name="extension_details_dialog_reinstall_button">再インストール</string>
     <string name="extension_details_dialog_reinstall_message">「&lt;b>%s&lt;/b>」というユーザースクリプトが再インストールされます。</string>
     <string name="extension_details_dialog_reinstall_title">ユーザスクリプトを再インストールしますか？</string>
+    <string name="extension_details_edit">編集</string>
     <string name="extension_details_homepage">ホームページ：</string>
+    <string name="extension_details_homepage_copied">ホームページをコピーしました</string>
+    <string name="extension_details_match">パターン:</string>
     <string name="extension_details_reinstall">再インストール</string>
     <string name="extension_details_remove">削除</string>
     <string name="extension_details_transitive_summary">「ユーザースクリプト」機能が無効になっているため、この設定は適用されていません。</string>
     <string name="extension_details_transitive_warning_message">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>ユーザースクリプト&lt;/b>」を有効にしてください。</string>
+    <string name="extension_details_type">種類:</string>
+    <string name="extension_details_type_userscript">ユーザースクリプト</string>
+    <string name="extension_details_type_userstyle">ユーザースタイル</string>
+    <string name="extension_details_update_url">更新用URL：</string>
+    <string name="extension_details_update_url_copied">更新用URLをコピー済み</string>
     <string name="extension_details_updated">最終更新日時：</string>
     <string name="extension_details_url">ダウンロードURL:</string>
+    <string name="extension_details_url_copied">ダウンロードURLをコピー済み</string>
     <string name="extension_details_version">バージョン:</string>
+    <string name="extension_editor_button_mode_create">登録する</string>
+    <string name="extension_editor_button_mode_edit">保存</string>
+    <string name="extension_editor_dialog_failed_to_save_button">再試行する</string>
+    <string name="extension_editor_dialog_failed_to_save_message">もう一度試すか、サポートにご連絡ください。</string>
+    <string name="extension_editor_dialog_failed_to_save_title">ユーザースクリプトを保存できませんでした</string>
+    <string name="extension_editor_dialog_unsaved_discard_button">変更を破棄する</string>
+    <string name="extension_editor_dialog_unsaved_message">エディタを閉じる前に変更を保存しますか？</string>
+    <string name="extension_editor_dialog_unsaved_save_button">保存して閉じる</string>
+    <string name="extension_editor_dialog_unsaved_title">保存されていない変更があります</string>
+    <string name="extension_editor_mistake_empty">この欄に記入してください</string>
+    <string name="extension_editor_mistake_invalid">入力内容が無効です</string>
+    <string name="extension_editor_title_mode_create">%s を作成する</string>
+    <string name="extension_editor_title_mode_edit">%s を編集する</string>
+    <string name="extensions_editor_snack_added_message">ユーザースクリプトが追加されました</string>
+    <string name="extensions_editor_snack_replaced_message">ユーザースクリプトが置き換えられました</string>
+    <string name="extensions_editor_snack_saved_message">ユーザースクリプトが保存されました</string>
     <string name="fallback_menu_item_copy_link">リンクをコピー</string>
     <string name="fallback_menu_item_open_in_browser">ブラウザで開く</string>
     <string name="fallback_menu_item_share_link">リンクの共有</string>
     <string name="filter_details_features">機能</string>
     <string name="filter_details_homepage">ホームページ</string>
+    <string name="filter_details_last_update">最終更新日時</string>
     <string name="filter_details_menu_remove">削除</string>
     <string name="filter_details_remove_filter_dialog_summary">「<b>%s</b>」というカスタムフィルタが削除されます。</string>
     <string name="filter_details_remove_filter_dialog_title">フィルタを削除しますか？</string>
+    <string name="filter_details_rules">ルール</string>
     <string name="filter_details_trusted_switch_summary">一部のフィルター ルールは、ブラウジングエクスペリエンスを大幅に変更し、プライバシーを侵害する可能性があります。信頼できる開発者からのフィルタである場合にのみチェックを入れてください。</string>
     <string name="filter_details_trusted_switch_title">信頼するフィルタ</string>
     <string name="filter_details_url">ソース</string>
     <string name="filter_group_dialog_reset_to_default_button_title">初期化</string>
     <string name="filter_group_dialog_reset_to_defaults_message">このセクションの設定は、全て初期値にリセットされます。</string>
     <string name="filter_group_dialog_reset_to_defaults_title">デフォルトにリセットしますか？</string>
+    <string name="filter_group_snack_custom_filter_removed">フィルタ「&lt;b>%s&lt;/b>」を削除しました</string>
     <string name="filter_group_snack_filter_removed">カスタムフィルタが削除されました。</string>
     <string name="filter_group_transitive_note_ad_blocking_protection">「広告ブロック」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_group_transitive_note_annoyance_blocking_protection">「迷惑要素ブロック」機能が無効になっているため、これらの設定は適用されていません</string>
-    <string name="filter_group_transitive_note_language_specific_protection">「言語特化広告ブロック」が無効になっているため、これらの設定は適用されていません</string>
-    <string name="filter_group_transitive_note_tracking_protection">「トラッキング防止」が無効になっているため、これらの設定は適用されていません</string>
+    <string name="filter_group_transitive_note_language_specific_protection">「言語特化広告ブロック」機能が無効になっているため、これらの設定は適用されていません</string>
+    <string name="filter_group_transitive_note_tracking_protection">「トラッキング防止」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_group_transitive_snack_message_ad_blocking_protection">&lt;b>%s&lt;/b>を有効にするには、 「&lt;b>広告ブロック&lt;/b>」を有効にしてください。</string>
+    <string name="filter_group_transitive_snack_message_ad_blocking_protection_filters">「&lt;b>広告ブロック&lt;/b>」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_group_transitive_snack_message_annoyance_protection">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>迷惑要素ブロック&lt;/b>」を有効にしてください。</string>
+    <string name="filter_group_transitive_snack_message_annoyance_protection_filters">「&lt;b>迷惑要素ブロック&lt;/b>」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_group_transitive_snack_message_language_specific">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>言語特化広告ブロック&lt;/b>」を有効にしてください。</string>
+	<string name="filter_group_transitive_snack_message_filters_full_version">この設定は製品版で利用可能です</string>
+    <string name="filter_group_transitive_snack_message_language_specific_filters">「&lt;b>言語特化広告ブロック&lt;/b>」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_group_transitive_snack_message_tracking_protection">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>トラッキング防止&lt;/b>」を有効にしてください。</string>
+    <string name="filter_group_transitive_snack_message_tracking_protection_filters">「&lt;b>トラッキング防止&lt;/b>」機能が無効になっているため、これらの設定は適用されていません</string>
     <string name="filter_requests_request_origin">リクエスト元</string>
     <string name="filter_requests_request_origin_first_party">ファーストパーティ</string>
     <string name="filter_requests_request_origin_third_party">サードパーティ</string>
@@ -522,7 +574,7 @@
     <string name="filter_requests_title">カスタマイズ</string>
     <string name="filters_dialog_button_browse">参照</string>
     <string name="filters_dialog_button_next">次へ</string>
-    <string name="filters_dialog_hint">フィルタのURLまたはローカルファイルパスを入力してください</string>
+    <string name="filters_dialog_hint">フィルタのURLまたはローカルファイルのパスを入力してください</string>
     <string name="filters_dialog_input_empty_line_error">この欄に内容を記入してください</string>
     <string name="filters_dialog_input_url_error">有効なURLまたはファイルパスを入力してください</string>
     <string name="filters_dialog_label">フィルタのURLもしくはローカルファイルパス</string>
@@ -547,6 +599,7 @@
     <string name="filters_filter_group_enabled">有効フィルタ数: %1$d/%2$d</string>
     <string name="filters_filter_group_language">言語特化フィルタ</string>
     <string name="filters_filter_group_language_summary">特定の言語のWebサイトで広告をブロックします。</string>
+    <string name="filters_filter_group_nothing_found">フィルタがありません</string>
     <string name="filters_filter_group_other">その他のフィルタ</string>
     <string name="filters_filter_group_other_summary">他のカテゴリに当てはまらないさまざまなフィルタです。</string>
     <string name="filters_filter_group_privacy">プライバシーフィルタ</string>
@@ -708,6 +761,7 @@
     <string name="firewall_quick_actions_summary">よく行うアクション(最近のインターネットアクティビティに基づく)</string>
     <string name="firewall_quick_actions_title">クイックアクション</string>
     <string name="firewall_quick_actions_transitive_snack_message">「<b>ファイアウォール</b>」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="firewall_quick_actions_transitive_snack_message_custom_rules_disabled">「&lt;b>ファイアウォール&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
     <string name="firewall_quick_actions_unblock_app">アクセスのブロックを解除</string>
     <string name="firewall_quick_actions_yesterday">昨日</string>
     <string name="firewall_switch_title">ファイアウォール</string>
@@ -752,7 +806,11 @@
     <string name="home_ad_blocking_talkback">広告やポップアップをブロック</string>
     <string name="home_adguard_vpn_talkback">AdGuard VPN</string>
     <string name="home_annoyance_blocking_talkback">迷惑要素ブロック</string>
+    <string name="home_card_hide">隠す</string>
+    <string name="home_card_show_hidden">非表示にしたタイルを表示</string>
     <string name="home_cardview_background_activity_title">AdGuardによる保護が常時有効に</string>
+    <string name="home_cardview_private_browser_summary">プライベートブラウザ</string>
+    <string name="home_cardview_private_browser_summary_onboarding">新しくなったプライベートブラウザをお試しください</string>
     <string name="home_developer_tools_talkback">デベロッパーツール</string>
     <string name="home_dialog_background_activity_button_negative">今後、この通知を表示しない</string>
     <string name="home_dialog_background_activity_button_positive">バックグラウンド動作を許可する</string>
@@ -771,8 +829,6 @@
     <string name="home_dialog_onboarding1_passed_message">通常設定では、AdGuardは広告やトラッカーから守ってくれます。必要であれば、ニーズに合わせてアプリを微調整できます。</string>
     <string name="home_dialog_onboarding1_passed_title">AdGuard は稼働中です。</string>
     <string name="home_dns_protection_talkback">DNS通信を保護</string>
-    <string name="home_feature_discovery_protection">タップして保護を有効にする</string>
-    <string name="home_feature_discovery_update">タップしてフィルターやユーザースクリプトを更新</string>
     <string name="home_firewall_talkback">ファイアウォール</string>
     <string name="home_main_switch_off_talkback">保護のメインスイッチは無効になっています</string>
     <string name="home_main_switch_on_talkback">保護のメインスイッチは有効になっています</string>
@@ -828,6 +884,13 @@
     <string name="https_activation_disable_snack">HTTPSフィルタリングを無視する</string>
     <string name="https_activation_explanation_summary">ほとんどのウェブサイトやアプリはHTTPSを使用しています。HTTPSは、デバイス上のウェブブラウザやアプリとウェブサーバーとの間の接続を暗号化します。AdGuard にHTTPSをフィルタリングさせないと、広告やトラッカーはHTTPS通信に混じって配信されてしまいます。</string>
     <string name="https_activation_explanation_title">HTTPSトラフィックをフィルタリングするメリット</string>
+    <string name="https_activation_ignore_button_summary">非推奨</string>
+    <string name="https_activation_ignore_button_title">無視</string>
+    <string name="https_activation_ignore_https_filtering_dialog_button">無視する</string>
+    <string name="https_activation_ignore_https_filtering_dialog_summary">"ウェブサイトやアプリの多くはHTTPSプロトコルを使用しています。HTTPSフィルタリングがないと、ほとんどの広告やトラッカーはブロックされません。
+
+後で [設定] → [ネットワーク] → [HTTPSフィルタリング] で有効にすることもできます。"</string>
+    <string name="https_activation_ignore_https_filtering_dialog_title">HTTPSフィルタリングを無視しますか？</string>
     <string name="https_activation_install_ca_button_open_settings">設定を開く</string>
     <string name="https_activation_install_ca_error">設定を開けませんでした。手動で設定をアクセスしてみてください</string>
     <string name="https_activation_install_ca_summary">1. 設定 → [生体認証とセキュリティ]&lt;br/>&lt;br/>2. [その他のセキュリティ設定] → [暗号化と認証情報]&lt;br/>&lt;br/>3. [ストレージからインストール]&lt;br/>&lt;br/>4. [CA証明書] を選択します&lt;br/>&lt;br/>5. 表示されるセキュリティ警告で許可します&lt;br/>&lt;br/>6. 端末上のAdGuard 証明書ファイルを見つけて開きます&lt;br/>&lt;br/>7. 証明書インストールを確認します</string>
@@ -846,7 +909,9 @@
     <string name="https_activation_why_trust_adguard_users">世界中のユーザー数</string>
     <string name="https_activation_why_trust_adguard_users_count">7,000万人以上</string>
     <string name="https_ca_installation_activity_failure">証明書をインストールできませんでした。手動でインストールしてみてください</string>
-    <string name="https_filtering_exclusions_button_add">ウェブサイトを追加</string>
+    <string name="https_filtering_disabled_transitive_snack_button">有効にする</string>
+    <string name="https_filtering_disabled_transitive_snack_title">「&lt;b>HTTPSフィルタリング&lt;/b>」機能が無効のため、この設定は適用されていません</string>
+    <string name="https_filtering_exclusions_button_add">ウェブサイトを追加する</string>
     <string name="https_filtering_exclusions_change_mode">モードを変更する</string>
     <string name="https_filtering_exclusions_dialog_edit_title">ウェブサイトの編集</string>
     <string name="https_filtering_exclusions_dialog_input_error">このドメインは既に追加されています</string>
@@ -1048,7 +1113,7 @@
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="nav_app_bar_navigate_up_description">上へ移動</string>
     <string name="nav_app_bar_open_drawer_description">ナビゲーション ドロワーを開く</string>
-    <string name="not_routed_through_adguard">AdGuardを経由していません</string>
+    <string name="not_routed_through_adguard">このアプリの通信はAdGuardを経由していません</string>
     <string name="not_set">未設定</string>
     <string name="notification_channel_description_app_conflict">AdGuardと競合する可能性のあるアプリについての通知</string>
     <string name="notification_channel_description_app_update">AdGuardの新バージョンに関する通知</string>
@@ -1154,6 +1219,7 @@
     <string name="preferences_adguard_vpn_integration_title_integration_mode">AdGuard VPN との併用モード</string>
     <string name="preferences_advanced_settings_automation_summary">Tasker系アプリがAdGuardを管理できるようにします。</string>
     <string name="preferences_advanced_settings_automation_title">自動化</string>
+    <string name="preferences_advanced_settings_export_logs_action">共有する</string>
     <string name="preferences_advanced_settings_export_logs_failure">ログのエクスポートが失敗しました</string>
     <string name="preferences_advanced_settings_export_logs_snack_in_progress">ログをエクスポート中…</string>
     <string name="preferences_advanced_settings_export_logs_snack_share">ログを共有する…</string>
@@ -1197,13 +1263,23 @@
     <string name="preferences_app_settings_extensions_button">ユーザースクリプトを追加する</string>
     <string name="preferences_app_settings_extensions_dialog_add">追加する</string>
     <string name="preferences_app_settings_extensions_dialog_add_button">追加する</string>
+    <string name="preferences_app_settings_extensions_dialog_add_mode_create_userscript">ユーザースクリプトを作成する</string>
+    <string name="preferences_app_settings_extensions_dialog_add_mode_create_userstyle">ユーザースタイルを作成する</string>
+    <string name="preferences_app_settings_extensions_dialog_add_mode_import">ファイルまたはURLからインポートする</string>
     <string name="preferences_app_settings_extensions_dialog_back_button">戻る</string>
-    <string name="preferences_app_settings_extensions_dialog_hint">ユーザースクリプトのアドレス:</string>
-    <string name="preferences_app_settings_extensions_dialog_homepage">ホームページ</string>
+    <string name="preferences_app_settings_extensions_dialog_chooser_next">次へ</string>
+    <string name="preferences_app_settings_extensions_dialog_create_userscript_title">ユーザースクリプトを作成する</string>
+    <string name="preferences_app_settings_extensions_dialog_create_userstyle_title">ユーザースタイルを作成する</string>
+    <string name="preferences_app_settings_extensions_dialog_description">概要: </string>
+    <string name="preferences_app_settings_extensions_dialog_download_url">ダウンロード先: </string>
+    <string name="preferences_app_settings_extensions_dialog_download_url_copied">ダウンロードURLをコピーしました</string>
+    <string name="preferences_app_settings_extensions_dialog_hint">URLまたはファイルパス</string>
+    <string name="preferences_app_settings_extensions_dialog_homepage">ホームページ: </string>
+    <string name="preferences_app_settings_extensions_dialog_homepage_copied">ホームページをコピーしました</string>
+    <string name="preferences_app_settings_extensions_dialog_import_title">ファイルまたはURLからインポートする</string>
     <string name="preferences_app_settings_extensions_dialog_input_error">有効なURLまたはファイルパスを入力してください</string>
-    <string name="preferences_app_settings_extensions_dialog_input_error_empty">この欄に記入してください</string>
-    <string name="preferences_app_settings_extensions_dialog_input_hint">URLまたはローカルファイルへのパスを入力してください</string>
-    <string name="preferences_app_settings_extensions_dialog_match">次のものと合致:</string>
+    <string name="preferences_app_settings_extensions_dialog_input_error_empty">値を入力してください</string>
+    <string name="preferences_app_settings_extensions_dialog_match">パターン: </string>
     <string name="preferences_app_settings_extensions_dialog_name_exists_message">新しい名称に置き換えますか？</string>
     <string name="preferences_app_settings_extensions_dialog_name_exists_overwrite">置き換える</string>
     <string name="preferences_app_settings_extensions_dialog_name_exists_title">この名称のユーザースクリプトはすでに存在しています。</string>
@@ -1215,13 +1291,24 @@
     <string name="preferences_app_settings_extensions_dialog_summary">※ユーザースクリプトは、あなたのデバイスデータにアクセスすることができます。&lt;br/>&lt;br/>&lt;font color=\"%s\">信頼できる開発者からのユーザースクリプト以外は使用しないでください。&lt;/font></string>
     <string name="preferences_app_settings_extensions_dialog_summary_fallback">※ユーザースクリプトは、あなたのデバイスデータにアクセスすることができます。信頼できる開発者からのユーザースクリプト以外は使用しないでください。</string>
     <string name="preferences_app_settings_extensions_dialog_title">ユーザースクリプトを追加する</string>
-    <string name="preferences_app_settings_extensions_dialog_version">バージョン</string>
-    <string name="preferences_app_settings_extensions_extension_removed_snack">ユーザスクリプトが削除されました。</string>
+    <string name="preferences_app_settings_extensions_dialog_type">種類:</string>
+    <string name="preferences_app_settings_extensions_dialog_type_userscript">ユーザースクリプト</string>
+    <string name="preferences_app_settings_extensions_dialog_type_userstyle">ユーザースタイル</string>
+    <string name="preferences_app_settings_extensions_dialog_update_url">更新用URL: </string>
+    <string name="preferences_app_settings_extensions_dialog_update_url_copied">更新用URLをコピーしました</string>
+    <string name="preferences_app_settings_extensions_dialog_updated">最終更新日時：</string>
+    <string name="preferences_app_settings_extensions_dialog_version">バージョン:</string>
+    <string name="preferences_app_settings_extensions_extension_removed_snack">ユーザースクリプトが削除されました</string>
     <string name="preferences_app_settings_extensions_menu_reset_to_default">デフォルトにリセット</string>
+    <string name="preferences_app_settings_extensions_name_too_long">ユーザースクリプトの名前が長すぎます</string>
+    <string name="preferences_app_settings_extensions_none">"ユーザースクリプトまたはユーザースタイルを追加するには、
+「"<b>ユーザースクリプトを追加する</b>」をクリックしてください。</string>
     <string name="preferences_app_settings_extensions_premium_warning">この機能を利用するには、&lt;font color=\"%1$s\">&lt;a href=%2$s>製品版を購入する&lt;/a>&lt;/font>必要があります。</string>
-    <string name="preferences_app_settings_extensions_successfully_added_snack">%s が追加されました。</string>
+    <string name="preferences_app_settings_extensions_successfully_added_snack">ユーザースクリプトが追加されました</string>
     <string name="preferences_app_settings_extensions_successfully_added_snack_action">表示</string>
-    <string name="preferences_app_settings_extensions_summary">ユーザースクリプトを追加して、AdGuard広告ブロッカーの機能を拡張しウェブエクスペリエンスを向上させることができます。</string>
+    <string name="preferences_app_settings_extensions_successfully_replaced_snack">拡張機能が置き換えられました</string>
+    <string name="preferences_app_settings_extensions_summary">ユーザースクリプトやユーザースタイルを追加することで、AdGuard広告ブロッカーの機能を拡張しウェブエクスペリエンスを向上させることができます。</string>
+    <string name="preferences_app_settings_extensions_unsupported_userstyle">このユーザースタイルにはサポートされていない機能があります。別のユーザースタイルを使用してみてください。</string>
     <string name="preferences_apps_management_apps_enable_all_dialog_act_2_summary">広告ブロックは、以下のアプリに干渉する可能性があります。</string>
     <string name="preferences_apps_management_dialog_disable_for_all_summary">これらのアプリのトラフィックはフィルタリングされなくなりますま。広告やトラッカーはブロックされなくなります。</string>
     <string name="preferences_apps_management_dialog_reset_all_dialog_act_1_filtering">フィルタリングをリセットする</string>
@@ -1270,6 +1357,8 @@
     <string name="preferences_apps_management_summary">フィルタリング対象アプリとアプリの権限を設定できます。</string>
     <string name="preferences_apps_management_title">アプリの管理</string>
     <string name="preferences_apps_management_traffic_not_routed_note">このアプリの通信はAdGuardを経由していません。</string>
+    <string name="preferences_apps_management_transitive_warning_button">製品版を購入する</string>
+    <string name="preferences_apps_management_transitive_warning_title">ブラウザ以外のアプリ内でも広告や追跡をブロックするには、製品版が必要です。</string>
     <string name="preferences_apps_summary_proxy_routing">プロキシまたはAdGuard VPN経由でルーティングするアプリを設定できます。</string>
     <string name="preferences_apps_title_proxy_routing">プロキシ経由で動作するアプリ</string>
     <string name="preferences_auto_report_crashes_summary_footer">※このデータは匿名であり、不具合修正のために内部でのみ使用されます。第三者と共有することは一切ありません。</string>
@@ -1303,6 +1392,7 @@
     <string name="preferences_categories_license_info">ライセンス</string>
     <string name="preferences_categories_license_info_summary">ライセンスとアカウント情報</string>
     <string name="preferences_categories_network_settings">ネットワーク設定</string>
+    <string name="preferences_categories_private_browser">プライベートブラウザの設定</string>
     <string name="preferences_categories_tracking">トラッキング防止</string>
     <string name="preferences_categories_traffic_filtering">AdGuard経由でルーティングされるアプリ</string>
     <string name="preferences_categories_vpn_integration">AdGuard VPN との併用モード</string>
@@ -1466,10 +1556,12 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_import_settings_dialog_unsupported_file_format_act_title">ファイルを読み取れませんでした</string>
     <string name="preferences_import_settings_dialog_unsupported_version_act_message">これらの設定は、アプリの廃止済みバージョンからインポートされました。別のファイルで再試行するか、 &lt;a href=%s>サポート&lt;/a>(日本語対応)にご連絡ください。</string>
     <string name="preferences_import_settings_dialog_unsupported_version_act_title">設定をインポートできません</string>
-    <string name="preferences_low_level_dns_protection_transitive_snack">この設定を適用するには、 「&lt;b>DNS通信を保護&lt;/b>」を有効にしてください。</string>
+    <string name="preferences_low_level_dns_protection_transitive_snack">「&lt;b>DNS通信を保護&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
     <string name="preferences_low_level_https_certificate_transitive_snack">この設定を適用するには、AdGuardのセキュリティ証明書をインストールしてください。</string>
     <string name="preferences_low_level_https_filtering_transitive_snack">この設定を適用するには、「&lt;b>HTTPSフィルタリング&lt;/b>」を有効にしてください。</string>
-    <string name="preferences_low_level_routing_mode_transitive_snack">この設定を適用するには、別の&lt;b>ルーティングモード&lt;/b>を使用してください。</string>
+    <string name="preferences_low_level_private_dns_transitive_snack">デバイス設定で「&lt;b>プライベートDNS&lt;/b>」が選択されているため、この設定は適用されていません</string>
+    <string name="preferences_low_level_private_dns_transitive_snack_button">設定を開く</string>
+    <string name="preferences_low_level_routing_mode_transitive_snack">「&lt;b>手動プロキシ&lt;/b>」が使用されているため、この設定は適用されていません</string>
     <string name="preferences_low_level_routing_mode_transitive_snack_button">設定する</string>
     <string name="preferences_low_level_scriptlets_debugging_description">デバッグ情報をブラウザコンソールに表示します。</string>
     <string name="preferences_low_level_scriptlets_debugging_title">Scriptlet debugging</string>
@@ -1477,6 +1569,9 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_auto_pause_vpn_title">VPNを自動的に復元する</string>
     <string name="preferences_low_level_settings_blocking_mode_custom_address">カスタムIPアドレス</string>
     <string name="preferences_low_level_settings_blocking_mode_custom_address_item">カスタムIPアドレス (デフォルト)</string>
+    <string name="preferences_low_level_settings_blocking_mode_zero_id_item">ゼロIPアドレス</string>
+    <string name="preferences_low_level_settings_blocking_mode_zero_ip_address_description">A リクエスト (IPv4) の場合は 0.0.0.0、AAAA リクエスト (IPv6) の場合は ::</string>
+    <string name="preferences_low_level_settings_blocking_mode_zero_ip_address_title">ゼロIPアドレス</string>
     <string name="preferences_low_level_settings_bootstrap_upstreams_details_input_error">有効なIPv4またはIPv6アドレスを入力してください</string>
     <string name="preferences_low_level_settings_bypass_quic_packages_message">このリストに入っているパッケージに対して、AdGuardはQUICトラフィックをバイパスします。</string>
     <string name="preferences_low_level_settings_bypass_quic_packages_title">QUICバイパスパッケージ</string>
@@ -1551,6 +1646,7 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_dns_hosts_rules_blocking_mode_description">hostsルール構文に基づくDNSルールでブロックされたドメインに対する応答タイプ</string>
     <string name="preferences_low_level_settings_dns_hosts_rules_blocking_mode_title">hostsルールのブロックモード</string>
     <string name="preferences_low_level_settings_dns_protection_disabled">「DNS通信を保護」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="preferences_low_level_settings_dns_protection_disabled_with_movement_method">「DNS通信を保護」機能が無効になっているため、この設定は適用されていません。 &lt;font color=\"%1$s\">&lt;a href=%2$s>有効にする&lt;/a>&lt;/font></string>
     <string name="preferences_low_level_settings_dns_request_timeout_description">各DNSリクエストに対して使用するタイムアウト</string>
     <string name="preferences_low_level_settings_dns_request_timeout_extended_dialog_description">複数のアップストリームがある場合、各アップストリームのタイムアウトが切れた後にのみ、フォールバックDNSリゾルバが使用されます。</string>
     <string name="preferences_low_level_settings_dns_request_timeout_title">DNSリクエストのタイムアウト</string>
@@ -1560,17 +1656,32 @@ adguardcertモジュールの実行に必要です。"</string>
     <string name="preferences_low_level_settings_enable_ech_title">Encrypted Client Hello</string>
     <string name="preferences_low_level_settings_enable_ocsp_check_description">SSL証明書の失効ステータスを自動的にチェックします。</string>
     <string name="preferences_low_level_settings_enable_ocsp_check_title">OCSP checking</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_alarms_and_reminders_failed_title">アラームとリマインダーの設定にアクセスできませんでした</string>
     <string name="preferences_low_level_settings_enable_sam_pay_detection_description">Samsung Payアプリを開くと、AdGuard保護を一時停止します。</string>
-    <string name="preferences_low_level_settings_enable_sam_pay_detection_dialog_description">この情報は、Samsung Pay が開いてあることを知るためにのみ使用します。その他の目的で使用したり、誰かと共有したりすることは一切ありません。 &lt;a href=%s>プライバシーポリシーはこちら&lt;/a></string>
-    <string name="preferences_low_level_settings_enable_sam_pay_detection_dialog_title">AdGuard にアプリの使用統計へのアクセスを許可してください</string>
     <string name="preferences_low_level_settings_enable_sam_pay_detection_failed_summary">手動で開いてみてください</string>
-    <string name="preferences_low_level_settings_enable_sam_pay_detection_note">アプリの使用アクセス権限を許可してください</string>
-    <string name="preferences_low_level_settings_enable_sam_pay_detection_title">Samsung Pay を検出する</string>
-    <string name="preferences_low_level_settings_enable_sam_pay_dialog_button_positive">設定を開く</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_alarms_and_reminders">アラームとリマインダーの設定行う権限</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_alarms_and_reminders_button">設定を開く</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_alarms_and_reminders_description">この権限は、Samsung Payを閉じた時に保護機能を再開するために使用されます。。</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_alarms_and_reminders_title">AdGuard にアラームとリマインダーの設定を許可する</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_app_usage">アプリの使用状況統計へのアクセス</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_app_usage_button">設定を開く</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_app_usage_description">この権限は、Samsung Payが開いているかを把握するために必要です。</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_app_usage_title">AdGuard にアプリの使用統計へのアクセスを許可する</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_description">これらのアクセス権限は、Samsung Payを開いているときに保護を一時停止することでSamsung Pay使用時の決済の不具合を防ぐためにのみ使用します。&lt;a href=%s>プライバシーポリシー&lt;/a></string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_permission_dialog_title">Samsung Payの検出を許可してください</string>
+    <string name="preferences_low_level_settings_enable_sam_pay_detection_title">Samsung Payを検出する</string>
     <string name="preferences_low_level_settings_enable_sam_pay_unavailable_dialog_button_positive">OK</string>
     <string name="preferences_low_level_settings_error_invalid_address">無効なアドレスです</string>
     <string name="preferences_low_level_settings_excluded_apps_description">AdGuard保護対象から除外するパッケージ名とUID</string>
     <string name="preferences_low_level_settings_excluded_apps_title">除外するアプリ</string>
+    <string name="preferences_low_level_settings_export_database_action">シェアする</string>
+    <string name="preferences_low_level_settings_export_database_failure">データベースのエクスポートに失敗しました</string>
+    <string name="preferences_low_level_settings_export_database_snack_in_progress">データベースをエクスポートしています…</string>
+    <string name="preferences_low_level_settings_export_database_snack_share">…とデータベースを共有する</string>
+    <string name="preferences_low_level_settings_export_database_snack_share_error">データベースを共有できませんでした</string>
+    <string name="preferences_low_level_settings_export_database_success">%s にデータベースをエクスポート完了</string>
+    <string name="preferences_low_level_settings_export_database_summary">AdGuard開発者と共有できるよう、データベースをZIPアーカイブに保存します。</string>
+    <string name="preferences_low_level_settings_export_database_title">データベースをエクスポート</string>
     <string name="preferences_low_level_settings_fallback_upstreams_details_input_error">無効なエントリーです。そのままにしておくと、最後に有効なエントリーが使用されます</string>
     <string name="preferences_low_level_settings_filter_secure_dns_dns_protection_disabled">「&lt;b>DNS通信を保護&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
     <string name="preferences_low_level_settings_filter_secure_dns_enable">有効にする</string>
@@ -1612,8 +1723,9 @@ Idle time: %d s
     <string name="preferences_low_level_settings_keep_alive_probes_title">TCP keepalive for outgoing sockets</string>
     <string name="preferences_low_level_settings_keep_alive_timeout_label">応答がないpeerに対してkeepalive probesを行うまでの時間(秒)。デフォルト値は0です。</string>
     <string name="preferences_low_level_settings_keepalive_input_error">数字のみを使用してください</string>
-    <string name="preferences_low_level_settings_manual_or_automatic_proxy_used">手動プロキシまたは自動プロキシが使われているているため、この設定は適用されていません</string>
-    <string name="preferences_low_level_settings_manual_proxy_used">手動プロキシが使われているているため、この設定は適用されていません</string>
+    <string name="preferences_low_level_settings_manual_or_automatic_proxy_used">手動プロキシまたは自動プロキシが使われているため、この設定は適用されていません</string>
+    <string name="preferences_low_level_settings_manual_proxy_used">手動プロキシが使われているため、この設定は適用されていません</string>
+    <string name="preferences_low_level_settings_manual_proxy_used_with_movement_method">「手動プロキシ」または「自動プロキシ」が使用されているため、この設定は適用されていません。 &lt;font color=\"%1$s\">&lt;a href=%2$s>ルーティングを構成する&lt;/a>&lt;/font></string>
     <string name="preferences_low_level_settings_number_error_greater_than_0">0を超える値にしてください</string>
     <string name="preferences_low_level_settings_port_ranges_error_first_greater">1つ目のポートは、2つ目のポートと同じかそれ以上であってはなりません</string>
     <string name="preferences_low_level_settings_port_ranges_error_incorrect_syntax">有効なポート範囲を入力してください</string>
@@ -1649,7 +1761,7 @@ Idle time: %d s
     <string name="preferences_network_settings_summary_routing_mode_local_vpn">"トラフィックのフィルタリング方法を設定します。
 【現在使用中モード】ローカルVPN"</string>
     <string name="preferences_network_settings_summary_routing_mode_manual_proxy">"トラフィックのフィルタリング方法を設定します。
-【現在使用中モード】手動プロキシポート"</string>
+【現在使用中モード】手動プロキシポート  %s"</string>
     <string name="preferences_network_settings_summary_routing_mode_transparent_proxy">"トラフィックのフィルタリング方法を設定します。
 【現在使用中モード】自動プロキシ"</string>
     <string name="preferences_network_settings_title_https_filtering">HTTPSフィルタリング</string>
@@ -1862,15 +1974,52 @@ Idle time: %d s
     <string name="preferences_watchdog_summary_note">アラームとリマインダーの設定を許可する</string>
     <string name="preferences_watchdog_switch_name">ウォッチドッグ(Watchdog)</string>
     <string name="preferences_watchdog_title">ウォッチドッグ(Watchdog)</string>
+    <string name="private_browser_dialog_js_before_unload_message">このページでの変更は保存されない可能性があります</string>
+    <string name="private_browser_dialog_js_before_unload_title_leave">保存せずに終了しますか？</string>
+    <string name="private_browser_dialog_js_before_unload_title_reload">ページを再読み込みしますか?</string>
+    <string name="private_browser_dialog_js_hint">あなたへのメッセージ</string>
+    <string name="private_browser_dialog_js_leave">閉じる</string>
+    <string name="private_browser_dialog_js_reload">再読み込みする</string>
+    <string name="private_browser_dialog_js_send">送信する</string>
+    <string name="private_browser_dialog_js_stay">閉じない</string>
+    <string name="private_browser_dialog_js_title">%sからの通知</string>
+    <string name="private_browser_dialog_login_button">ログイン</string>
+    <string name="private_browser_dialog_login_password_hint">パスワードを入力してください</string>
+    <string name="private_browser_dialog_login_password_label">パスワード</string>
+    <string name="private_browser_dialog_login_title">ログイン</string>
+    <string name="private_browser_dialog_login_username_hint">ユーザ名を入力してください</string>
+    <string name="private_browser_dialog_login_username_label">ユーザー名</string>
+    <string name="private_browser_download_dialog_button">ダウンロード</string>
+    <string name="private_browser_download_dialog_description">※ブラウザの履歴を消去しても、ダウンロードしたファイルは削除されないことにご注意ください。</string>
+    <string name="private_browser_download_dialog_title">ファイルをダウンロードしますか？</string>
+    <string name="private_browser_intent_filter_label">AdGuard ブラウザ</string>
+    <string name="private_browser_tabs_close_all">すべて閉じる</string>
+    <string name="private_browser_tabs_close_all_dialog_button">閉じる</string>
+    <string name="private_browser_tabs_close_all_dialog_message">"すべてのタブが閉じられます。
+
+※ウェブサイトのデータはクリアされません。（ブラウザを閉じた後にクリアできます）"</string>
+    <string name="private_browser_tabs_close_all_dialog_title">全タブ閉じますか？</string>
+    <string name="private_browser_tabs_title">タブ</string>
+    <string name="private_browser_widget_label">AdGuard ブラウザ</string>
+    <string name="private_browsing_onboarding_create_widget_summary">1. ホーム画面で、何もない場所をロングタップします。&lt;br>2. &lt;b>ウィジェット&lt;/b>をタップします。&lt;br>3. 「&lt;b>AdGuard ブラウザ&lt;/b>」を選択します。&lt;br>4. ウィジェットをロングタップし、好きなところにドラッグします。</string>
+    <string name="private_browsing_onboarding_create_widget_title">ホーム画面にブラウザのウィジェットを作成</string>
+    <string name="private_browsing_onboarding_incognito_summary">広告やトラッキングなしのシークレットモードウェブ閲覧。デフォルトでは、タブを閉じるとウェブサイトデータは完全に削除されます。</string>
+    <string name="private_browsing_onboarding_incognito_title">広告なしのプライベートブラウザ</string>
+    <string name="private_browsing_onboarding_next_button">次へ</string>
+    <string name="private_browsing_onboarding_open_browser_button">ブラウザを開く</string>
+    <string name="private_browsing_onboarding_youtube_ad_free_summary">1. 動画を開きます。&lt;br>2. 「共有」をタップし、「&lt;b>AdGuard ブラウザ&lt;/b>」を選択します。&lt;br>3. 安全なAdGuardブラウザで、広告なし・トラッキングなしの動画をお楽しみください。</string>
+    <string name="private_browsing_onboarding_youtube_ad_free_title">動画を広告なしで視聴</string>
     <string name="private_dns_notification_opportunistic_summary">DNSリクエストをフィルタリングするには、デバイスの設定でプライベートDNSを無効にしてください。</string>
     <string name="private_dns_notification_strict_summary">DNSリクエストをフィルタリングするには、デバイスの設定でプライベートDNSを無効にしてください。</string>
     <string name="private_dns_notification_title">「DNS通信を保護」を使用できません</string>
     <string name="promo_neutral_button_try_free">7日間無料お試し</string>
-    <string name="promo_notification_trial_available_eight_days_message">7日間の無料試用版でアプリ内広告ブロックを試せます。タップして詳細を見る</string>
+    <string name="promo_neutral_button_try_free_expanded">90日間無料お試し</string>
+    <string name="promo_notification_expanded_trial_available_one_day_title">Extra版を90日間無料でお試し</string>
+    <string name="promo_notification_trial_available_eight_days_message">%1$d日間の無料試用版でアプリ内広告ブロックを試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_eight_days_title">ゲーム内広告に邪魔されないようになります。</string>
     <string name="promo_notification_trial_available_five_days_message">7日間の無料試用版で「ブラウジング・セキュリティ」を試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_five_days_title">危険なウェブサイトを検知して警告を表示します。</string>
-    <string name="promo_notification_trial_available_one_day_message">カード情報不要。タップして詳細を見る</string>
+    <string name="promo_notification_trial_available_one_day_message">カード情報は不要です。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_one_day_title">拡張版の1週間無料</string>
     <string name="promo_notification_trial_available_ten_days_message">「AdGuard Extra」は、普通の広告ブロッカーがブロックできない高度な広告もブロックします。7日間の無料試用版でユーザースクリプトを試せます。タップして詳細を見る</string>
     <string name="promo_notification_trial_available_ten_days_title">複雑な広告もしっかりブロック</string>
@@ -1895,6 +2044,8 @@ Idle time: %d s
     <string name="protection_browsing_security_summary">フィッシングサイト、悪質サイト、詐欺サイトへのアクセスをブロックします。</string>
     <string name="protection_browsing_security_switch">ブラウジング・セキュリティ</string>
     <string name="protection_browsing_security_title">ブラウジング・セキュリティ</string>
+    <string name="protection_browsing_security_transitive_warning_button">製品版を購入する</string>
+    <string name="protection_browsing_security_transitive_warning_title">この設定は製品版で利用可能です</string>
     <string name="protection_dns_automatic">自動DNS</string>
     <string name="protection_dns_filter_details_button_delete">削除</string>
     <string name="protection_dns_filter_details_delete_dialog_summary">「&lt;b>%s&lt;/b>」というDNSフィルターが削除されます。</string>
@@ -1906,13 +2057,17 @@ Idle time: %d s
     <string name="protection_dns_filter_details_transitive_snack_message_dns_protection_disabled">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>DNS通信を保護&lt;/b>」機能を有効にしてください。</string>
     <string name="protection_dns_filter_details_transitive_snack_message_manual_proxy_enabled">「&lt;b>%s&lt;/b>」を有効にするには、別のルーティングモードを使用してください。</string>
     <string name="protection_dns_filter_details_transitive_snack_message_private_dns_enabled">「&lt;b>%s&lt;/b>」を有効にするには、デバイスの設定で「プライベートDNS」を無効にしてください。</string>
-    <string name="protection_dns_filter_details_transitive_warning_dns_filtering_disabled">DNSフィルタが無効になっているため、このフィルタは無効になっています。</string>
-    <string name="protection_dns_filter_details_transitive_warning_dns_protection_disabled">「DNS通信を保護」機能が無効になっているため、このDNSサーバーも無効になっています</string>
-    <string name="protection_dns_filter_details_transitive_warning_manual_proxy_enabled">手動プロキシが使われているているため、このDNSサーバーは無効になっています</string>
+    <string name="protection_dns_filter_details_transitive_snack_title_dns_filtering_disabled">「&lt;b>DNSフィルタ&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="protection_dns_filter_details_transitive_snack_title_dns_protection_disabled">「&lt;b>DNS通信を保護&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="protection_dns_filter_details_transitive_snack_title_manual_proxy_enabled">「&lt;b>手動プロキシ&lt;/b>」が使用されているため、この設定は適用されていません</string>
+    <string name="protection_dns_filter_details_transitive_snack_title_private_dns_enabled">デバイス設定で「&lt;b>プライベートDNS&lt;/b>」が選択されているため、この設定は適用されていません</string>
+    <string name="protection_dns_filter_details_transitive_warning_dns_filtering_disabled">DNSフィルタがオフになっているため、このフィルタは無効になっています。</string>
+    <string name="protection_dns_filter_details_transitive_warning_dns_protection_disabled">「DNS通信を保護」機能がオフになっているため、このDNSサーバーも無効になっています</string>
+    <string name="protection_dns_filter_details_transitive_warning_manual_proxy_enabled">手動プロキシが使われているため、このDNSサーバーは無効になっています</string>
     <string name="protection_dns_filter_details_transitive_warning_private_dns_enabled">Android設定で「プライベートDNS」が選択されているため、このフィルタは無効になっています。</string>
     <string name="protection_dns_filters_add_filter_dialog_button_browse">追加する</string>
     <string name="protection_dns_filters_add_filter_dialog_button_next">次へ</string>
-    <string name="protection_dns_filters_add_filter_dialog_hint">フィルタのURLまたはローカルファイルパスを入力してください</string>
+    <string name="protection_dns_filters_add_filter_dialog_hint">フィルタのURLまたはローカルファイルへのパスを入力してください</string>
     <string name="protection_dns_filters_add_filter_dialog_input_error">有効なURLまたはファイルパスを入力してください</string>
     <string name="protection_dns_filters_add_filter_dialog_input_error_empty">この欄に記入してください</string>
     <string name="protection_dns_filters_add_filter_dialog_label">フィルタURLまたはローカルファイルパス</string>
@@ -1947,7 +2102,7 @@ Idle time: %d s
     <string name="protection_dns_provider_list_subtitle">機能</string>
     <string name="protection_dns_provider_server_type">暗号化プロトコル</string>
     <string name="protection_dns_provider_transitive_warning_dns_protection_disabled">「DNS通信を保護」機能が無効になっているため、このDNSサーバーは無効です</string>
-    <string name="protection_dns_provider_transitive_warning_manual_proxy_enabled">手動プロキシが使われているているため、このDNSサーバーは無効になっています</string>
+    <string name="protection_dns_provider_transitive_warning_manual_proxy_enabled">手動プロキシが使われているため、このDNSサーバーは無効になっています</string>
     <string name="protection_dns_provider_transitive_warning_private_dns_enabled">端末の設定で「プライベートDNS」が選択されているため、このDNSサーバーは無効になっています</string>
     <string name="protection_dns_provider_website">ウェブサイト</string>
     <string name="protection_dns_request_dns_filters_info">DNSフィルタ情報</string>
@@ -1981,27 +2136,20 @@ Idle time: %d s
     <string name="protection_dns_server_summary">DNSリクエストを解決し、広告やトラッカーをDNSレベルでブロックし、DNSトラフィックを暗号化するためにDNSサーバーを選択することができます。</string>
     <string name="protection_dns_server_title">DNSサーバー</string>
     <string name="protection_dns_server_transitive_snack_action_title_private_dns_enabled">設定を開く</string>
-    <string name="protection_dns_server_transitive_snack_message_dns_protection_disabled_adguard_server">AdGuard DNSサーバーに接続するには、「&lt;b>DNS通信を保護&lt;/b>」を有効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_dns_protection_disabled_custom_server">カスタムDNSサーバーに接続するには、 「&lt;b>DNS通信を保護&lt;/b>」を有効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_dns_protection_disabled_public_server">パブリックDNSサーバーに接続するには、 「&lt;b>DNS通信を保護&lt;/b>」を有効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_dns_protection_disabled_system_server">DNSリクエストをフィルタリングするには、 「&lt;b>DNS通信を保護&lt;/b>」を有効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_manual_proxy_enabled_adguard_server">AdGuard DNSサーバーに接続するには、別のルーティングモードを使用してください。</string>
-    <string name="protection_dns_server_transitive_snack_message_manual_proxy_enabled_custom_server">カスタムDNSサーバーに接続するには、別のルーティングモードを使用してください。</string>
-    <string name="protection_dns_server_transitive_snack_message_manual_proxy_enabled_public_server">パブリックDNSサーバーに接続するには、別のルーティングモードを使用してください。</string>
-    <string name="protection_dns_server_transitive_snack_message_manual_proxy_enabled_system_server">DNSリクエストをフィルタリングするには、別のルーティングモードを使用してください。</string>
-    <string name="protection_dns_server_transitive_snack_message_private_dns_enabled_adguard_server">AdGuard DNSサーバーに接続するには、デバイスの設定でプライベートDNSを無効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_private_dns_enabled_custom_server">カスタムDNSサーバーに接続するには、デバイスの設定で「プライベートDNS」を無効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_private_dns_enabled_public_server">パブリックDNSサーバーに接続するには、デバイスの設定で「プライベートDNS」を無効にしてください。</string>
-    <string name="protection_dns_server_transitive_snack_message_private_dns_enabled_system_server">DNSリクエストをフィルタリングするには、デバイスの設定で「プライベートDNS」を無効にしてください。</string>
-    <string name="protection_dns_summary">DNSレベルで広告、トラッキング、脅威から守ります。</string>
+    <string name="protection_dns_server_transitive_snack_message_dns_protection_disabled">「&lt;b>DNS通信を保護&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="protection_dns_server_transitive_snack_message_manual_proxy_enabled">「&lt;b>手動プロキシ&lt;/b>」が使用されているため、この設定は適用されていません</string>
+    <string name="protection_dns_server_transitive_snack_message_private_dns_enabled">デバイス設定で「&lt;b>プライベートDNS&lt;/b>」が選択されているため、この設定は適用されていません</string>
+    <string name="protection_dns_summary">DNSレベルで広告、トラッキングなどから守ります。</string>
     <string name="protection_dns_summary_request_dns_filters">DNSフィルターとユーザー ルールを追加して、ドメインレベルで広告やトラッカーをブロックできます。</string>
     <string name="protection_dns_summary_select_server">"DNSリクエストを解決し、広告やトラッカーをDNSレベルでブロックし、DNSトラフィックを暗号化することを可能にします。
 現在のサーバー: %s"</string>
     <string name="protection_dns_title_request_dns_filters">DNSフィルタ</string>
     <string name="protection_dns_title_select_filtering">DNS通信を保護</string>
     <string name="protection_dns_title_select_server">DNSサーバー</string>
+    <string name="protection_dns_transitive_snack_action_title_fake_dns_disable">無効にする</string>
     <string name="protection_dns_transitive_snack_action_title_manual_routing">ルーティングを設定する</string>
     <string name="protection_dns_transitive_snack_action_title_private_dns_enabled">設定を開く</string>
+    <string name="protection_dns_transitive_snack_fake_dns_message">「&lt;b>FakeDNS を使用する&lt;/b>」機能が有効になっているため、この設定は適用されていません</string>
     <string name="protection_dns_transitive_snack_message">「&lt;b>DNS通信を保護&lt;/b>」を有効にするには、%s</string>
     <string name="protection_dns_transitive_snack_message_manual_routing">別のルーティングモードを使用してください。</string>
     <string name="protection_dns_transitive_snack_message_private_dns_enabled">Android設定でプライベートDNSを無効にしてください。</string>
@@ -2028,6 +2176,7 @@ Idle time: %d s
     <string name="protection_summary_browsing_security">フィッシングサイト、悪質サイト、詐欺サイトへのアクセスをブロックします。</string>
     <string name="protection_summary_dns">DNSレベルで広告、トラッキング、脅威から守ります。</string>
     <string name="protection_summary_firewall">各アプリのインターネットへのアクセスを制御できます。</string>
+    <string name="protection_summary_private_browser">広告やトラッキングなく安全かつ匿名でネットを閲覧できます。</string>
     <string name="protection_summary_tracking_protection">ウェブトラッカー(個人情報追跡)から個人情報とオンライン活動を保護します。</string>
     <string name="protection_title">AdGuardによる保護</string>
     <string name="protection_title_ad_blocking">広告ブロック</string>
@@ -2035,10 +2184,11 @@ Idle time: %d s
     <string name="protection_title_browsing_security">ブラウジング・セキュリティ</string>
     <string name="protection_title_dns">DNS通信を保護</string>
     <string name="protection_title_firewall">ファイアウォール</string>
+    <string name="protection_title_private_browser">プライベートブラウザ</string>
     <string name="protection_title_tracking_protection">トラッキング防止</string>
     <string name="protection_tracking_protection_info">トラッキング防止情報</string>
+    <string name="protection_youtube_summary">YouTube用AdGuardプレイヤーの使い方の説明です。</string>
     <string name="protection_youtube_title">YouTubeアプリの広告をブロックする方法</string>
-    <string name="recent_activity_feature_discovery">タップすると、詳細を表示したり、フィルタリングルールを追加したりできます</string>
     <string name="recent_activity_menu_clear">最新のアクティビティをクリアする</string>
     <string name="recent_activity_menu_clear_dialog_button">クリア</string>
     <string name="recent_activity_menu_clear_dialog_summary">最終の10,000リクエストに関する情報が削除されます。</string>
@@ -2132,6 +2282,8 @@ Wi-Fi通信をブロック"</string>
     <string name="request_details_modify_reason_removed_param">削除済みパラメータ</string>
     <string name="request_details_modify_reason_replace">置換ルール</string>
     <string name="request_details_modify_reason_stealth">トラッキング防止</string>
+    <string name="request_details_modify_reason_url_transform_rule">$urltransform ルール</string>
+    <string name="request_details_modify_reason_xmlprune">XML.prune ルール</string>
     <string name="request_details_original_certificate">元の証明書</string>
     <string name="request_details_original_certificate_common_name_title">&lt;b>Common Name (CN)&lt;/b></string>
     <string name="request_details_original_certificate_expired_on">&lt;b>有効期限:&lt;/b></string>
@@ -2196,6 +2348,9 @@ Wi-Fi通信をブロック"</string>
     <string name="screen_about_youtube_player_mechanism_description">AdGuard へ動画を共有すると、AdGuardアプリ内ブラウザでリンクが開きます。これにより、AdGuardは動画広告をブロックし、広告なし再生を提供することができます。</string>
     <string name="screen_about_youtube_player_mechanism_title">仕組み</string>
     <string name="screen_about_youtube_player_title">YouTubeアプリの広告をブロックする方法</string>
+    <string name="screen_create_browser_widget_summary">1. ホーム画面で、何もない場所を長押しします。&lt;br>2. &lt;b>ウィジェット&lt;/b>をタップします。&lt;br>3. 「&lt;b>AdGuard ブラウザ&lt;/b>」を選択します。&lt;br>4. ウィジェットをロングタップし、好きなところにドラッグします。</string>
+    <string name="screen_create_browser_widget_title">ホーム画面にブラウザのウィジェットを作成</string>
+    <string name="screen_default_search_title">デフォルトの検索エンジン</string>
     <string name="screen_developer_tools_item_ad_blocking_title">広告やポップアップをブロック</string>
     <string name="screen_developer_tools_item_annoyances_title">迷惑要素ブロック</string>
     <string name="screen_developer_tools_item_assistant_title">AdGuardアシスタント</string>
@@ -2216,6 +2371,73 @@ Wi-Fi通信をブロック"</string>
     <string name="screen_developer_tools_item_user_rules_title">ユーザーフィルタ</string>
     <string name="screen_developer_tools_item_userscripts_title">ユーザースクリプト</string>
     <string name="screen_developer_tools_title">デベロッパーツール</string>
+    <string name="screen_private_browser_about_domain_dialog_not_secure_summary">あなたのデータが危険にさらされています：このウェブサイトへの接続は暗号化されていません。</string>
+    <string name="screen_private_browser_about_domain_dialog_not_secure_title">接続が安全ではありません</string>
+    <string name="screen_private_browser_about_domain_dialog_not_valid_certificate_title">証明書は無効です。</string>
+    <string name="screen_private_browser_about_domain_dialog_secure_summary">当ウェブサイトへ送信されるお客様の情報・データは暗号化されます。</string>
+    <string name="screen_private_browser_about_domain_dialog_secure_title">接続は安全です。</string>
+    <string name="screen_private_browser_about_domain_dialog_valid_certificate_title">証明書は有効です。</string>
+    <string name="screen_private_browser_add_shortcut_dialog_button">ショートカットを作成する</string>
+    <string name="screen_private_browser_add_shortcut_dialog_input_hint">ショートカット名を入力</string>
+    <string name="screen_private_browser_add_shortcut_dialog_input_label">ショートカット名</string>
+    <string name="screen_private_browser_add_shortcut_dialog_keep_website_data_summary">今後の訪問のために、ログイン方法やショッピングカート内容などのデータを保存します。</string>
+    <string name="screen_private_browser_add_shortcut_dialog_keep_website_data_title">ウェブサイトデータを保持</string>
+    <string name="screen_private_browser_add_shortcut_dialog_title">ホーム画面に追加</string>
+    <string name="screen_private_browser_add_shortcut_dialog_use_website_icon_title">ウェブサイトのアイコンを使用する</string>
+    <string name="screen_private_browser_add_shortcut_xiaomi_dialog_neutral">今後、この通知を表示しない</string>
+    <string name="screen_private_browser_add_shortcut_xiaomi_dialog_positive">設定を開く</string>
+    <string name="screen_private_browser_add_shortcut_xiaomi_dialog_summary">ホーム画面にウェブサイトを追加するには、AdGuardによるショートカット作成を許可してください:&lt;br>&lt;br>設定 &amp;#10142 アプリ &amp;#10142 AdGuard &amp;#10142 その他の許可 &amp;#10142 ホーム画面のショートカット</string>
+    <string name="screen_private_browser_add_shortcut_xiaomi_dialog_title">ショートカットの作成を許可してください</string>
+    <string name="screen_private_browser_clear_all_data_button">クリア</string>
+    <string name="screen_private_browser_clear_all_data_summary">"すべてのタブが閉じられ、ウェブサイトのデータが削除されます。
+
+※一部のウェブサイトでは再度ログインしたり、ショッピングカートにアイテムを再度追加したりする必要が出る可能性があります。"</string>
+    <string name="screen_private_browser_clear_all_data_title">データを全てクリアしますか？</string>
+    <string name="screen_private_browser_create_shortcuts_snack_action">詳細はこちら</string>
+    <string name="screen_private_browser_create_shortcuts_snack_title">お気に入りウェブサイトのショートカットを作成</string>
+    <string name="screen_private_browser_create_shortcuts_title">プライベートブラウザ</string>
+    <string name="screen_private_browser_open_in_other_browser_dialog_button">戻る</string>
+    <string name="screen_private_browser_open_in_other_browser_dialog_title">他のブラウザで開く</string>
+    <string name="screen_private_browser_popular_websites">人気のウェブサイト</string>
+    <string name="screen_private_browser_popup_add_to_home_screen">ホーム画面に追加</string>
+    <string name="screen_private_browser_popup_browser_settings">ブラウザ設定</string>
+    <string name="screen_private_browser_popup_browser_settings_summary">AdGuardを開く</string>
+    <string name="screen_private_browser_popup_close_tab">タブを閉じる</string>
+    <string name="screen_private_browser_popup_copy_link">リンクをコピー</string>
+    <string name="screen_private_browser_popup_open_in">…で開く</string>
+    <string name="screen_private_browser_popup_open_in_new_tab">新しいタブで開く</string>
+    <string name="screen_private_browser_popup_share">シェアする</string>
+    <string name="screen_private_browser_popup_share_link">リンクを共有</string>
+    <string name="screen_private_browser_popup_website_protection">ウェブサイト保護</string>
+    <string name="screen_private_browser_popup_website_protection_note">適用済みホワイトリストルールの影響で、保護機能を有効にできません</string>
+    <string name="screen_private_browser_popup_website_protection_summary">このページでブロック済みの広告と追跡の数: %d</string>
+    <string name="screen_private_browser_search_in">%s で検索</string>
+    <string name="screen_private_browser_set_browser_default_dialog_message">あらゆるアプリ内でクリックするリンクは、&lt;b>AdGuardプライベートブラウザ&lt;/b>で開くようになります。</string>
+    <string name="screen_private_browser_set_browser_default_dialog_neutral">スキップ</string>
+    <string name="screen_private_browser_set_browser_default_dialog_positive">デフォルトにする</string>
+    <string name="screen_private_browser_set_browser_default_dialog_title">このブラウザをデフォルトにしますか？</string>
+    <string name="screen_private_browser_set_enable_search_suggestion_neutral">いいえ、結構です</string>
+    <string name="screen_private_browser_set_enable_search_suggestion_positive">有効にする</string>
+    <string name="screen_private_browser_set_enable_search_suggestion_summary">"時間を節約するために、検索欄にクエリを全部入力する代わりに、ブラウザのサジェスト（候補）から選択することができます。
+※適切な検索候補を提供するために、AdGuardは選択された検索エンジンにクエリを送信します。"</string>
+    <string name="screen_private_browser_set_enable_search_suggestion_title">検索候補を有効にしますか？</string>
+    <string name="screen_private_browser_settings_create_browser_widget_summary">ホーム画面から素早くブラウザを開けるウィジェットの追加方法のご紹介です。</string>
+    <string name="screen_private_browser_settings_create_browser_widget_title">ホーム画面にブラウザのウィジェットを作成</string>
+    <string name="screen_private_browser_settings_default_search_engine_title">デフォルトの検索エンジン</string>
+    <string name="screen_private_browser_settings_open_browser_title">ブラウザを開く</string>
+    <string name="screen_private_browser_settings_search_suggestions_summary">検索エンジンからのサジェストで入力の手間を省けます。</string>
+    <string name="screen_private_browser_settings_search_suggestions_title">検索候補</string>
+    <string name="screen_private_browser_settings_summary">広告、トラッキングがなく安全なネット閲覧。タブを閉じると閲覧履歴がすぐに消去される。</string>
+    <string name="screen_private_browser_settings_title">プライベートブラウザ</string>
+    <string name="screen_private_browser_snack_message_open_app_error">%sを開けませんでした。手動で開いてみるか、別のブラウザを使用してください。</string>
+    <string name="screen_private_browser_suggestion_permission_request_negative_button">いいえ、結構</string>
+    <string name="screen_private_browser_suggestion_permission_request_positive_button">有効にする</string>
+    <string name="screen_private_browser_suggestion_permission_request_summary">"時間を節約するために、検索欄にクエリを全部入力する代わりに、ブラウザのサジェスト（候補）から選択することができます。
+
+※適切な検索候補を提供するために、AdGuardはご選択の検索エンジンにクエリを送信します。"</string>
+    <string name="screen_private_browser_suggestion_permission_request_title">検索候補を有効にしますか？</string>
+    <string name="screen_private_browser_summary">広告やトラッキングなしのシークレットモードウェブ閲覧。タブを閉じるとウェブサイトデータは完全に削除されます。</string>
+    <string name="screen_private_browser_title">プライベートブラウザ</string>
     <string name="search_hint">検索</string>
     <string name="search_menu_title">検索</string>
     <string name="slow_down_notification_reason_debug_log_level">デバッグのログレベル</string>
@@ -2290,10 +2512,13 @@ Wi-Fi通信をブロック"</string>
     <string name="tracking_protection_block_web_rtc_summary">WebRTCをブロックします(WebRTCは、プロキシやVPNを使用しても実際のIPアドレスを漏らす可能性のある脆弱性です)。</string>
     <string name="tracking_protection_block_web_rtc_title">WebRTCをブロックする</string>
     <string name="tracking_protection_browser_api_title">ブラウザAPI</string>
-    <string name="tracking_protection_details_client_hello_fragmentation_hint">0〜1500</string>
-    <string name="tracking_protection_details_client_hello_fragmentation_input_label">"最初のClientHelloフラグメントのサイズ(バイト単位)
-(0〜1500)"</string>
-    <string name="tracking_protection_details_first_party_cookies_input_label">Time-to-live (分):</string>
+    <string name="tracking_protection_buy_full_version_snack_button">製品版を購入する</string>
+    <string name="tracking_protection_buy_full_version_snack_text">この機能は製品版で利用可能です</string>
+    <string name="tracking_protection_details_client_hello_fragmentation_hint">1〜1500</string>
+    <string name="tracking_protection_details_client_hello_fragmentation_input_label">"最初のClientHelloフラグメントのサイズ &lt;バイト単位>
+（1〜1500）"</string>
+    <string name="tracking_protection_details_disabled_transitive_snack_message">「&lt;b>トラッキング防止&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
+    <string name="tracking_protection_details_first_party_cookies_input_label">Time-to-live（分）</string>
     <string name="tracking_protection_details_first_party_cookies_main_switch_title">ファーストパーティクッキーの自動削除</string>
     <string name="tracking_protection_details_first_party_cookies_summary">ファーストパーティーCookieの有効期間を制限します。Cookieをブロックするには、Time-to-liveを0に設定してください。</string>
     <string name="tracking_protection_details_first_party_cookies_title">ファーストパーティクッキーの自動削除</string>
@@ -2320,23 +2545,35 @@ Wi-Fi通信をブロック"</string>
     <string name="tracking_protection_details_mask_ip_address_main_switch_title">IPアドレスを隠す</string>
     <string name="tracking_protection_details_mask_ip_address_summary">あなたが以下のIPアドレスを持っているプロキシであるかのようにウェブサイトに信じさせます。デフォルトのIPアドレスを使用するには、欄を空にしてください。</string>
     <string name="tracking_protection_details_mask_ip_address_title">IPアドレスを隠す</string>
+    <string name="tracking_protection_details_protect_from_dpi_byte_range_error">%1$dから%2$dまでの数字を入力してください</string>
+    <string name="tracking_protection_details_protect_from_dpi_client_hello_fragmentation_description">ClientHello を2つのフラグメントに分割します。</string>
+    <string name="tracking_protection_details_protect_from_dpi_client_hello_fragmentation_main_switch_title">ClientHello フラグメンテーション（断片化）</string>
+    <string name="tracking_protection_details_protect_from_dpi_client_hello_fragmentation_summary">"ClientHello を2つのフラグメントに分割します。
+最初のフラグメントのサイズ: %d"</string>
+    <string name="tracking_protection_details_protect_from_dpi_client_hello_fragmentation_title">ClientHello フラグメンテーション（断片化）</string>
+    <string name="tracking_protection_details_protect_from_dpi_http_request_fragmentation_description">HTTPリクエストを2つのフラグメントに分割します。</string>
+    <string name="tracking_protection_details_protect_from_dpi_http_request_fragmentation_main_switch_title">HTTPリクエストのフラグメンテーション（断片化）</string>
+    <string name="tracking_protection_details_protect_from_dpi_http_request_fragmentation_summary">"HTTPリクエストを2つのフラグメントに分割します。
+最初のフラグメントのサイズ: %d"</string>
+    <string name="tracking_protection_details_protect_from_dpi_http_request_fragmentation_title">HTTPリクエストのフラグメンテーション（断片化）</string>
     <string name="tracking_protection_details_protect_from_dpi_main_switch_title">DPIから保護する</string>
     <string name="tracking_protection_details_protect_from_dpi_summary">ISP(インターネットプロバイダ)のDPI(Deep Packet Inspection)システムによる訪問先Webサイトの検出を防ぐために、端末から送信されるトラフィックを変更します。※一部のDPIシステムに対しては、完全な防御を保証することはできませんのでご了承ください。</string>
     <string name="tracking_protection_details_protect_from_dpi_title">DPIから保護する</string>
-    <string name="tracking_protection_details_split_delay_input_label">ClientHelloまたはHTTPリクエストの残りのフラグメントを送信するまでの遅延(秒単位)</string>
-    <string name="tracking_protection_details_third_party_cookies_input_label">Time-to-live(分)</string>
+    <string name="tracking_protection_details_split_delay_label">遅延 (ms単位)</string>
+    <string name="tracking_protection_details_split_delay_title">ClientHelloまたはHTTPリクエストの残りのフラグメントを送信するまでの遅延</string>
+    <string name="tracking_protection_details_third_party_cookies_input_label">Time-to-live（分）</string>
     <string name="tracking_protection_details_third_party_cookies_main_switch_title">サードパーティクッキーの自動削除</string>
     <string name="tracking_protection_details_third_party_cookies_summary">サードパーティーCookieの有効期間を制限します。Cookieをブロックするには、Time-to-liveを0に設定してください。</string>
     <string name="tracking_protection_details_third_party_cookies_title">サードパーティクッキーの自動削除</string>
     <string name="tracking_protection_details_third_party_cookies_transitive_note">これらのCookieを完全にブロックした場合、一部のウェブサイトに再ログインする必要が生じたり、その他のクッキー関連問題に直面したりする可能性があります。</string>
     <string name="tracking_protection_details_transitive_note">「トラッキング防止」機能が無効になっているため、この設定は適用されていません</string>
-    <string name="tracking_protection_details_transitive_snack_message">&lt;b>%s&lt;/b>を有効にするには、「&lt;b>トラッキング防止&lt;/b>」を有効にしてください。</string>
     <string name="tracking_protection_disable_auth_third_party_summary">トラッキングに使用される可能性のあるキャッシュされた認証データを無効化します。※一部のブラウザ拡張機能およびウェブサイトの機能をに干渉する可能性があります。</string>
     <string name="tracking_protection_disable_auth_third_party_title">サードパーティのAuthorizationヘッダをブロックする</string>
     <string name="tracking_protection_disable_cache_third_party_summary">リクエストと応答からETagとIf-None-Matchヘッダを削除し、それらによるトラッキングを防止します。</string>
     <string name="tracking_protection_disable_cache_third_party_title">ETagヘッダーとIf-None-Matchヘッダーをブロックする</string>
     <string name="tracking_protection_general_settings_title">一般設定</string>
     <string name="tracking_protection_hide_referer_for_third_party_default_title">デフォルト</string>
+    <string name="tracking_protection_hide_referer_for_third_party_mistake">example.com という形式を使用してください</string>
     <string name="tracking_protection_hide_referer_for_third_party_note">カスタムリファラ: %s</string>
     <string name="tracking_protection_hide_referer_for_third_party_summary">訪問先ウェブサイトをサードパーティに知られないようにします。</string>
     <string name="tracking_protection_hide_referer_for_third_party_title">サードパーティからRefererを隠す</string>
@@ -2347,6 +2584,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tracking_protection_hide_user_agent_summary">User-Agentヘッダから識別情報を削除します。</string>
     <string name="tracking_protection_hide_user_agent_title">ユーザエージェントを隠す</string>
     <string name="tracking_protection_main_switch_title">トラッキング防止</string>
+    <string name="tracking_protection_mask_ip_address_mistake">IPアドレスが無効です</string>
     <string name="tracking_protection_mask_ip_address_note">カスタムIPアドレス: %s</string>
     <string name="tracking_protection_mask_ip_address_summary">あなたが以下のIPアドレスを持っているプロキシであるかのようにウェブサイトに信じさせます。</string>
     <string name="tracking_protection_mask_ip_address_title">IPアドレスを隠す</string>
@@ -2399,6 +2637,7 @@ Wi-Fi通信をブロック"</string>
     <string name="trial_chooser_summary">ログイン(または登録)して、7日間の無料お試しを利用できます。</string>
     <string name="trial_chooser_text_or">もしくは</string>
     <string name="trial_chooser_title">無料で試してみる</string>
+    <string name="trial_expanded_chooser_summary">ログイン（または登録）を行うと、90日間の無料お試しを開始できます。</string>
     <string name="trial_expiration_notification_expired_message">⚠️ 広告、トラッキング、危険なウェブサイトから端末が保護されていません。タップしてライセンスを管理する</string>
     <string name="trial_expiration_notification_expired_title">試用期間が終了しました</string>
     <string name="trial_expiration_notification_less_than_a_day_message">👑 製品版の効果を維持しましょう！タップしてライセンスを管理する</string>
@@ -2444,6 +2683,13 @@ Wi-Fi通信をブロック"</string>
     <string name="tv__dialog_upgrade_license_title">コードを読み取ってライセンスをアップグレード</string>
     <string name="tv__email_menu_stub">最強の広告ブロッカー</string>
     <string name="tv__home_menu_title">ホーム</string>
+    <string name="tv__migration_splash_button">OK</string>
+    <string name="tv__migration_splash_error_summary">新しいアプリの準備ができましたが、設定を新バージョンに移行できませんでした。&lt;br>&lt;font color=\"%1$s\">恐れ入りますが、設定はすべてデフォルトにリセットされました。&lt;/font></string>
+    <string name="tv__migration_splash_error_title">設定を移行できませんでした</string>
+    <string name="tv__migration_splash_processing_summary">アプリを新しいバージョンに移行していますので、しばらくお待ちください。アプリは念のため、開いたままにしておいてください。</string>
+    <string name="tv__migration_splash_processing_title">AdGuard 設定の移行</string>
+    <string name="tv__migration_splash_success_summary">お客様の設定をアプリの新バージョンに移行しました。引き続き AdGuardをお楽しみください。</string>
+    <string name="tv__migration_splash_success_title">完了</string>
     <string name="tv__protection_menu_title">AdGuardによる保護</string>
     <string name="tv__screen_2fa__subtitle">二要素認証(2FA)アプリが生成したコードを入力してください。</string>
     <string name="tv__screen_2fa_button_check">確認する</string>
@@ -2514,6 +2760,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tv__screen_dialog_custom_server_name_hint">My DNS サーバー</string>
     <string name="tv__screen_dialog_custom_server_providers_button">DNSプロバイダー</string>
     <string name="tv__screen_dialog_custom_server_title">カスタムDNSサーバーを追加する</string>
+    <string name="tv__screen_dialog_dns_providers_button">ブラウザで開く</string>
     <string name="tv__screen_dialog_dns_providers_title">読み取ってDNSプロバイダーの詳細を確認</string>
     <string name="tv__screen_dns_protection_basic_dns_switch_summary">DNSレベルで広告やトラッキングをブロックします。</string>
     <string name="tv__screen_dns_protection_basic_dns_switch_title">基本的なDNS通信保護</string>
@@ -2682,6 +2929,7 @@ Wi-Fi通信をブロック"</string>
     <string name="tv__screen_remove_user_rule_title">選択して削除する</string>
     <string name="tv__screen_share_logs_button_send">送信する</string>
     <string name="tv__screen_share_logs_email_error">有効なメールアドレスを入力してください</string>
+    <string name="tv__screen_share_logs_email_error_empty">この欄に記入してください</string>
     <string name="tv__screen_share_logs_email_label">メールアドレス</string>
     <string name="tv__screen_share_logs_message_label">内容</string>
     <string name="tv__screen_share_logs_message_summary">追加したい情報などがあればご記入ください</string>
@@ -2751,6 +2999,8 @@ Wi-Fi通信をブロック"</string>
     <string name="unit_information_quantity_petabyte_rounded">%.0fPB</string>
     <string name="unit_information_quantity_terabyte">%.2fTB</string>
     <string name="unit_information_quantity_terabyte_rounded">%.0fTB</string>
+    <string name="unit_number_degree_billion_two_signs">%.0f0億</string>
+    <string name="unit_number_degree_billions_one_sign">%.1f0億</string>
     <string name="unit_number_degree_hundred_millions_one_sign">%.1f億</string>
     <string name="unit_number_degree_hundred_millions_two_signs">%.0f億</string>
     <string name="unit_number_degree_hundred_thousands_one_sign">%.1f0万</string>
@@ -2803,6 +3053,7 @@ Wi-Fi通信をブロック"</string>
     <string name="updates_fix_auto_updates_snack_message">自動更新が正常に完了しない可能性があります</string>
     <string name="updates_hide_message_fix_auto_updates_snack_action_text">今後表示しない</string>
     <string name="updates_hide_message_fix_auto_updates_snack_message">このメッセージを非表示にしますか？</string>
+    <string name="updates_permissions_for_automatic_filter_updates">自動アップデートに必要な権限</string>
     <string name="updates_release_notes_dialog_title">"AdGuard
 v%s アップデート内容"</string>
     <string name="updates_safebrowsing_summary_checking">確認中…</string>
@@ -2867,6 +3118,8 @@ v%s アップデート内容"</string>
     <string name="user_filter_title">ユーザーフィルタ</string>
     <string name="user_filter_transitive_note">「%s」が無効になっているため、この設定は適用されていません</string>
     <string name="user_filter_transitive_snack_message">「&lt;b>ユーザールール&lt;/b>」を有効にするには、「&lt;b>%s&lt;/b>」を有効にしてください。</string>
+    <string name="user_filter_transitive_snack_message_dns_filters_disabled">「&lt;b>DNSフィルタ&lt;/b>」がオフのため、この設定は適用されていません</string>
+    <string name="user_filter_transitive_snack_message_dns_protection_disabled">「&lt;b>DNS通信を保護&lt;/b>」機能が無効になっているため、この設定は適用されていません</string>
     <string name="v7_preference_off">OFF</string>
     <string name="v7_preference_on">ON</string>
     <string name="widget_description_protection_disabled">AdGuardは無効です</string>
@@ -2879,6 +3132,16 @@ v%s アップデート内容"</string>
     <string name="widget_statistics_saved">データ通信節約量</string>
     <string name="widget_statistics_threats">脅威ブロック数</string>
     <string name="widget_statistics_trackers">追跡ソフトブロック数</string>
+    <string name="xiaomi_background_permission_button_dont_show_again">今後、この通知を表示しない</string>
+    <string name="xiaomi_background_permission_button_open_settings">設定を開く</string>
+    <string name="xiaomi_background_permission_option_one_summary">1. 設定 → アプリ → 権限 → &lt;b>バックグラウンド自動起動&lt;/b> に移動し、AdGuard がバックグラウンドで実行可能と設定されていることを確認します。&lt;br>2. 設定に戻る → アプリ → アプリの管理 → &lt;b>AdGuard&lt;/b> を選択し、 「&lt;b>使用していないアプリを一時停止する&lt;/b>」のチェックを外します。&lt;br>3. 「&lt;b>バッテリーセーバー&lt;/b>」で、 「&lt;b>制限なし&lt;/b>」をタップします。</string>
+    <string name="xiaomi_background_permission_option_one_title">手順①</string>
+    <string name="xiaomi_background_permission_option_two_summary">1. 設定 → アプリ → アプリの管理 →&lt;b>AdGuard&lt;/b> と進み、「&lt;b>自動起動&lt;/b>」を有効にします。&lt;br>2. 「&lt;b>バッテリーセーバー&lt;/b>」で、「&lt;b>制限なし&lt;/b>」をタップします。</string>
+    <string name="xiaomi_background_permission_option_two_title">手順②</string>
+    <string name="xiaomi_background_permission_summary">"AdGuard をバックグラウンドで動作させますと、アプリを閉じても広告から保護してくれます。これを行うには、お使いのスマホのバッテリー最適化設定を変更する必要があります。
+
+お使いのデバイス設定に応じて以下の手順①か②をご利用ください。"</string>
+    <string name="xiaomi_background_permission_title">バックグラウンドで広告や追跡をブロック</string>
     <string name="youtube_fail_open_url_button">ブラウザで開く</string>
     <string name="youtube_fail_open_url_summary">プレイヤーでリンクを開けませんでした。Web版YouTubeをお試しください(AdGuardはブラウザ版Youtubeでも広告をブロックします)</string>
     <string name="youtube_intent_filter_label">AdGuard プレイヤー</string>
@@ -2887,4 +3150,6 @@ v%s アップデート内容"</string>
     <string name="youtube_notification_play_pause">再生/一時停止</string>
     <string name="youtube_notification_stop_player">閉じる</string>
     <string name="youtube_play_pause">再生/一時停止</string>
+    <string name="youtube_player_disabled_dialog_message">この機能は無効化されています</string>
+    <string name="youtube_player_disabled_dialog_title">AdGuard プレイヤーは無効化されています</string>
 </resources>
